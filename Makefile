@@ -4,15 +4,15 @@ CFLAGS = -Wall -Wextra -g -Iheaders
 
 LDFLAGS = -pthread -lncurses
 
-SRC_DIR = maincode
+MAIN_DIR = maincode
 INC_DIR = headers
 OBJ_DIR = obj
 BIN_DIR = bin
 
 EXEC_NAME = Airport-Traffic-Control
 TARGET = $(BIN_DIR)/$(EXEC_NAME)
-SRCS = $(wildcard $(SRC_DIR)/*.c)
-OBJS = $(patsubst $(SRC_DIR)/%.c,$(OBJ_DIR)/%.o,$(SRCS))
+MAINS = $(wildcard $(MAIN_DIR)/*.c)
+OBJS = $(patsubst $(MAIN_DIR)/%.c,$(OBJ_DIR)/%.o,$(MAINS))
 
 
 .PHONY: all
@@ -23,7 +23,7 @@ $(TARGET): $(OBJS)
 	@mkdir -p $(BIN_DIR)
 	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
 
-$(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
+$(OBJ_DIR)/%.o: $(MAIN_DIR)/%.c
 	@echo "--- Compilando $< em $@ ---"
 	@mkdir -p $(OBJ_DIR)
 	$(CC) $(CFLAGS) -c $< -o $@

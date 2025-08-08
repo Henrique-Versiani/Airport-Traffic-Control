@@ -1,17 +1,19 @@
 #ifndef AIRPORT_H
 #define AIRPORT_H
-#include "config.h"
 
-void init_airport();
-void destroy_airport();
+#include "plane.h"
 
-void request_landing(int id, FlightType type);
-void release_landing(int id, FlightType type);
+void airport_init(void);
+void airport_destroy(void);
 
-void request_disembark(int id, FlightType type);
-void release_disembark(int id, FlightType type);
+void airport_request_landing_resources(PlaneData* data);
+void airport_release_landing_resources();
 
-void request_takeoff(int id, FlightType type);
-void release_takeoff(int id, FlightType type);
+void airport_request_disembarking_resources(PlaneData* data);
+void airport_release_disembarking_resources();
 
-#endif
+void airport_request_takeoff_resources(PlaneData* data);
+void airport_release_takeoff_resources();
+
+
+#endif // AIRPORT_H

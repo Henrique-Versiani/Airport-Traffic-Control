@@ -1,7 +1,7 @@
 #ifndef PLANE_H
 #define PLANE_H
 
-#include <time.h>       // Necessário para o tipo time_t (controle de starvation)
+#include <time.h>
 #include "config.h"
 
 
