@@ -135,17 +135,17 @@ void airport_release_disembarking_resources() {
 void airport_request_takeoff_resources(PlaneData* data) {
     if (data->type == DOMESTIC) {
         domestic_wait_with_priority(data);
+        sem_wait(&tower);
         sem_wait(&gates);
         sem_wait(&runways);
-        sem_wait(&tower);
     } else { // INTERNATIONAL
         pthread_mutex_lock(&priority_lock);
         international_waiting_count++;
         pthread_mutex_unlock(&priority_lock);
 
-        sem_wait(&tower);
         sem_wait(&gates);
         sem_wait(&runways);
+        sem_wait(&tower);
 
         pthread_mutex_lock(&priority_lock);
         international_waiting_count--;
