@@ -2,1482 +2,1146 @@ INFO: Modulo do aeroporto inicializado.
 ====================================================
 INFO: Sistema inicializado. Iniciando simulacao...
 ====================================================
-INFO: Simulacao rodando por 300 segundos.
-INFO: Voo INTL 1 criado e iniciando procedimentos.
-POUSO: Voo INTL 1 aguardando recursos para pousar.
-POUSO: Voo INTL 1 obteve recursos. Pousando agora...
-POUSO: Voo INTL 1 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 1 aguardando recursos para desembarcar.
-DESEMBARQUE: Voo INTL 1 atracou no portao. Desembarcando...
+INFO: Simulacao rodando por 180 segundos.
+INFO: Voo DOM 1 criado e iniciando procedimentos.
+POUSO: Voo DOM 1 aguardando recursos para pousar.
+POUSO: Voo DOM 1 obteve recursos. Pousando agora...
 INFO: Voo DOM 2 criado e iniciando procedimentos.
 POUSO: Voo DOM 2 aguardando recursos para pousar.
 POUSO: Voo DOM 2 obteve recursos. Pousando agora...
-INFO: Voo INTL 3 criado e iniciando procedimentos.
-POUSO: Voo INTL 3 aguardando recursos para pousar.
-POUSO: Voo INTL 3 obteve recursos. Pousando agora...
-DESEMBARQUE: Voo INTL 1 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 1 aguardando recursos para decolar.
-DECOLAGEM: Voo INTL 1 obteve recursos. Decolando agora...
+POUSO: Voo DOM 1 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 1 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo DOM 1 atracou no portao. Desembarcando...
+INFO: Voo DOM 3 criado e iniciando procedimentos.
+POUSO: Voo DOM 3 aguardando recursos para pousar.
 POUSO: Voo DOM 2 pousou e liberou a pista/torre.
 DESEMBARQUE: Voo DOM 2 aguardando recursos para desembarcar.
-POUSO: Voo INTL 3 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 3 aguardando recursos para desembarcar.
-DESEMBARQUE: Voo INTL 3 atracou no portao. Desembarcando...
-INFO: Voo INTL 1 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo DOM 3 obteve recursos. Pousando agora...
+INFO: Voo INTL 4 criado e iniciando procedimentos.
+POUSO: Voo INTL 4 aguardando recursos para pousar.
 DESEMBARQUE: Voo DOM 2 atracou no portao. Desembarcando...
-INFO: Voo DOM 4 criado e iniciando procedimentos.
-POUSO: Voo DOM 4 aguardando recursos para pousar.
-INFO: Voo INTL 5 criado e iniciando procedimentos.
-POUSO: Voo INTL 5 aguardando recursos para pousar.
-DESEMBARQUE: Voo INTL 3 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 3 aguardando recursos para decolar.
-POUSO: Voo DOM 4 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo DOM 1 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 1 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 1 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 3 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 3 aguardando recursos para desembarcar.
+POUSO: Voo INTL 4 obteve recursos. Pousando agora...
+INFO: Voo DOM 5 criado e iniciando procedimentos.
+POUSO: Voo DOM 5 aguardando recursos para pousar.
+INFO: Voo DOM 6 criado e iniciando procedimentos.
+POUSO: Voo DOM 6 aguardando recursos para pousar.
+POUSO: Voo INTL 4 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 4 aguardando recursos para desembarcar.
+DECOLAGEM: Voo DOM 1 obteve recursos. Decolando agora...
+INFO: Voo DOM 7 criado e iniciando procedimentos.
+POUSO: Voo DOM 7 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 7 esperando. 1 voo(s) INTL na frente.
 DESEMBARQUE: Voo DOM 2 finalizou o desembarque e liberou o portao/torre.
 DECOLAGEM: Voo DOM 2 aguardando recursos para decolar.
 PRIORIDADE: Voo DOM 2 esperando. 1 voo(s) INTL na frente.
-POUSO: Voo INTL 5 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 2 esperando. 1 voo(s) INTL na frente.
-INFO: Voo DOM 6 criado e iniciando procedimentos.
-POUSO: Voo DOM 6 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 6 esperando. 1 voo(s) INTL na frente.
-POUSO: Voo DOM 4 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 4 aguardando recursos para desembarcar.
-POUSO: Voo INTL 5 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 5 aguardando recursos para desembarcar.
-DECOLAGEM: Voo INTL 3 obteve recursos. Decolando agora...
-DECOLAGEM: Voo DOM 2 obteve recursos. Decolando agora...
-INFO: Voo INTL 7 criado e iniciando procedimentos.
-POUSO: Voo INTL 7 aguardando recursos para pousar.
-INFO: Voo INTL 3 decolou com sucesso e finalizou o ciclo.
-POUSO: Voo DOM 6 obteve recursos. Pousando agora...
-INFO: Voo DOM 2 decolou com sucesso e finalizou o ciclo.
-DESEMBARQUE: Voo DOM 4 atracou no portao. Desembarcando...
-INFO: Voo INTL 8 criado e iniciando procedimentos.
-POUSO: Voo INTL 8 aguardando recursos para pousar.
-POUSO: Voo DOM 6 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 6 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 6 esperando. 2 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 5 atracou no portao. Desembarcando...
-PRIORIDADE: Voo DOM 6 esperando. 2 voo(s) INTL na frente.
-DESEMBARQUE: Voo DOM 4 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo DOM 4 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 4 esperando. 1 voo(s) INTL na frente.
-POUSO: Voo INTL 7 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo DOM 3 atracou no portao. Desembarcando...
+INFO: Voo DOM 8 criado e iniciando procedimentos.
+POUSO: Voo DOM 8 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 8 esperando. 1 voo(s) INTL na frente.
+INFO: Voo DOM 1 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo DOM 5 obteve recursos. Pousando agora...
 INFO: Voo DOM 9 criado e iniciando procedimentos.
 POUSO: Voo DOM 9 aguardando recursos para pousar.
 PRIORIDADE: Voo DOM 9 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 3 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 3 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 4 atracou no portao. Desembarcando...
+POUSO: Voo DOM 5 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 5 aguardando recursos para desembarcar.
+POUSO: Voo DOM 6 obteve recursos. Pousando agora...
 INFO: Voo INTL 10 criado e iniciando procedimentos.
 POUSO: Voo INTL 10 aguardando recursos para pousar.
-DESEMBARQUE: Voo INTL 5 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 5 aguardando recursos para decolar.
-POUSO: Voo INTL 8 obteve recursos. Pousando agora...
-POUSO: Voo INTL 7 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 7 aguardando recursos para desembarcar.
-POUSO: Voo INTL 10 obteve recursos. Pousando agora...
-INFO: Voo INTL 11 criado e iniciando procedimentos.
-POUSO: Voo INTL 11 aguardando recursos para pousar.
-POUSO: Voo INTL 8 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 8 aguardando recursos para desembarcar.
-POUSO: Voo INTL 10 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 10 aguardando recursos para desembarcar.
-POUSO: Voo INTL 11 obteve recursos. Pousando agora...
-DECOLAGEM: Voo DOM 4 obteve recursos. Decolando agora...
+POUSO: Voo DOM 6 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 6 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 6 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 7 obteve recursos. Pousando agora...
+INFO: Voo DOM 11 criado e iniciando procedimentos.
+POUSO: Voo DOM 11 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 11 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 4 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 4 aguardando recursos para decolar.
+DECOLAGEM: Voo DOM 3 obteve recursos. Decolando agora...
+POUSO: Voo DOM 7 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 7 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 7 esperando. 1 voo(s) INTL na frente.
+DECOLAGEM: Voo INTL 4 obteve recursos. Decolando agora...
 INFO: Voo DOM 12 criado e iniciando procedimentos.
 POUSO: Voo DOM 12 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 12 esperando. 4 voo(s) INTL na frente.
-POUSO: Voo INTL 11 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 11 aguardando recursos para desembarcar.
-DESEMBARQUE: Voo DOM 6 atracou no portao. Desembarcando...
-DECOLAGEM: Voo INTL 5 obteve recursos. Decolando agora...
-INFO: Voo DOM 4 decolou com sucesso e finalizou o ciclo.
-INFO: Voo DOM 13 criado e iniciando procedimentos.
-POUSO: Voo DOM 13 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 13 esperando. 4 voo(s) INTL na frente.
-INFO: Voo INTL 14 criado e iniciando procedimentos.
-POUSO: Voo INTL 14 aguardando recursos para pousar.
-INFO: Voo INTL 5 decolou com sucesso e finalizou o ciclo.
-DESEMBARQUE: Voo INTL 11 atracou no portao. Desembarcando...
-DESEMBARQUE: Voo DOM 6 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo DOM 6 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 6 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 1 voo(s) INTL na frente.
+INFO: Voo DOM 3 decolou com sucesso e finalizou o ciclo.
 POUSO: Voo DOM 9 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 6 esperando. 4 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 13 esperando. 4 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 4 voo(s) INTL na frente.
-INFO: Voo DOM 15 criado e iniciando procedimentos.
-POUSO: Voo DOM 15 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 15 esperando. 4 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 11 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 11 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 11 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 7 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 6 esperando. 1 voo(s) INTL na frente.
+INFO: Voo INTL 4 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo DOM 2 obteve recursos. Decolando agora...
 POUSO: Voo DOM 9 pousou e liberou a pista/torre.
 DESEMBARQUE: Voo DOM 9 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 9 esperando. 3 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 10 atracou no portao. Desembarcando...
-DESEMBARQUE: Voo INTL 8 atracou no portao. Desembarcando...
+PRIORIDADE: Voo DOM 9 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 5 atracou no portao. Desembarcando...
+INFO: Voo DOM 13 criado e iniciando procedimentos.
+POUSO: Voo DOM 13 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 13 esperando. 1 voo(s) INTL na frente.
+INFO: Voo DOM 2 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 10 obteve recursos. Pousando agora...
+INFO: Voo DOM 14 criado e iniciando procedimentos.
+POUSO: Voo DOM 14 aguardando recursos para pousar.
+INFO: Voo DOM 15 criado e iniciando procedimentos.
+POUSO: Voo DOM 15 aguardando recursos para pousar.
+POUSO: Voo INTL 10 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 10 aguardando recursos para desembarcar.
+POUSO: Voo DOM 8 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo DOM 5 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 5 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 5 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 6 atracou no portao. Desembarcando...
+PRIORIDADE: Voo DOM 5 esperando. 1 voo(s) INTL na frente.
 INFO: Voo DOM 16 criado e iniciando procedimentos.
 POUSO: Voo DOM 16 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 16 esperando. 3 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 16 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 8 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 8 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 8 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 7 atracou no portao. Desembarcando...
 INFO: Voo DOM 17 criado e iniciando procedimentos.
 POUSO: Voo DOM 17 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 17 esperando. 3 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 10 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 10 aguardando recursos para decolar.
-POUSO: Voo INTL 14 obteve recursos. Pousando agora...
-DESEMBARQUE: Voo INTL 7 atracou no portao. Desembarcando...
-DESEMBARQUE: Voo INTL 8 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 8 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 16 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 17 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 9 esperando. 3 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 6 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 6 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 6 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 9 atracou no portao. Desembarcando...
+DESEMBARQUE: Voo DOM 7 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 7 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 7 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 13 obteve recursos. Pousando agora...
+PRIORIDADE: Voo DOM 6 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 16 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 7 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 8 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 1 voo(s) INTL na frente.
 INFO: Voo DOM 18 criado e iniciando procedimentos.
 POUSO: Voo DOM 18 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 18 esperando. 3 voo(s) INTL na frente.
-POUSO: Voo INTL 14 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 14 aguardando recursos para desembarcar.
-DECOLAGEM: Voo INTL 8 obteve recursos. Decolando agora...
-DESEMBARQUE: Voo INTL 7 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 7 aguardando recursos para decolar.
-DECOLAGEM: Voo INTL 10 obteve recursos. Decolando agora...
-INFO: Voo INTL 8 decolou com sucesso e finalizou o ciclo.
-DECOLAGEM: Voo INTL 7 obteve recursos. Decolando agora...
-INFO: Voo INTL 19 criado e iniciando procedimentos.
-POUSO: Voo INTL 19 aguardando recursos para pousar.
-INFO: Voo INTL 10 decolou com sucesso e finalizou o ciclo.
-POUSO: Voo INTL 19 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 6 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 13 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 2 voo(s) INTL na frente.
-INFO: Voo INTL 7 decolou com sucesso e finalizou o ciclo.
-DECOLAGEM: Voo INTL 11 obteve recursos. Decolando agora...
-POUSO: Voo INTL 19 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 19 aguardando recursos para desembarcar.
-DESEMBARQUE: Voo INTL 14 atracou no portao. Desembarcando...
-INFO: Voo DOM 20 criado e iniciando procedimentos.
-POUSO: Voo DOM 20 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 20 esperando. 1 voo(s) INTL na frente.
-INFO: Voo INTL 11 decolou com sucesso e finalizou o ciclo.
-DECOLAGEM: Voo DOM 6 obteve recursos. Decolando agora...
-INFO: Voo DOM 21 criado e iniciando procedimentos.
-POUSO: Voo DOM 21 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 21 esperando. 1 voo(s) INTL na frente.
-INFO: Voo DOM 22 criado e iniciando procedimentos.
-POUSO: Voo DOM 22 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 22 esperando. 1 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 14 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 14 aguardando recursos para decolar.
-POUSO: Voo DOM 18 obteve recursos. Pousando agora...
-INFO: Voo DOM 6 decolou com sucesso e finalizou o ciclo.
-POUSO: Voo DOM 13 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 20 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 2 voo(s) INTL na frente.
-INFO: Voo DOM 23 criado e iniciando procedimentos.
-POUSO: Voo DOM 23 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 23 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 18 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 18 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 18 esperando. 1 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 9 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 9 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 9 esperando. 1 voo(s) INTL na frente.
 POUSO: Voo DOM 12 obteve recursos. Pousando agora...
 POUSO: Voo DOM 13 pousou e liberou a pista/torre.
 DESEMBARQUE: Voo DOM 13 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 13 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 13 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 11 obteve recursos. Pousando agora...
+POUSO: Voo DOM 12 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 12 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 12 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 14 obteve recursos. Pousando agora...
+INFO: Voo DOM 19 criado e iniciando procedimentos.
+POUSO: Voo DOM 19 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 19 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 11 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 11 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 11 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo DOM 15 obteve recursos. Pousando agora...
+POUSO: Voo DOM 14 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 14 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 10 atracou no portao. Desembarcando...
+INFO: Voo DOM 20 criado e iniciando procedimentos.
+POUSO: Voo DOM 20 aguardando recursos para pousar.
+POUSO: Voo DOM 15 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 15 aguardando recursos para desembarcar.
+POUSO: Voo DOM 19 obteve recursos. Pousando agora...
+INFO: Voo INTL 21 criado e iniciando procedimentos.
+POUSO: Voo INTL 21 aguardando recursos para pousar.
+POUSO: Voo DOM 19 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 19 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 19 esperando. 1 voo(s) INTL na frente.
+DECOLAGEM: Voo DOM 6 obteve recursos. Decolando agora...
+DESEMBARQUE: Voo INTL 10 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 10 aguardando recursos para decolar.
 POUSO: Voo DOM 16 obteve recursos. Pousando agora...
+INFO: Voo INTL 22 criado e iniciando procedimentos.
+POUSO: Voo INTL 22 aguardando recursos para pousar.
+INFO: Voo DOM 6 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 10 obteve recursos. Decolando agora...
+POUSO: Voo DOM 16 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 16 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 16 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo INTL 22 obteve recursos. Pousando agora...
+PRIORIDADE: Voo DOM 16 esperando. 1 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 19 esperando. 1 voo(s) INTL na frente.
+INFO: Voo INTL 10 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo DOM 17 obteve recursos. Pousando agora...
+POUSO: Voo INTL 22 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 22 aguardando recursos para desembarcar.
+POUSO: Voo DOM 18 obteve recursos. Pousando agora...
+INFO: Voo DOM 23 criado e iniciando procedimentos.
+POUSO: Voo DOM 23 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 23 esperando. 2 voo(s) INTL na frente.
 INFO: Voo DOM 24 criado e iniciando procedimentos.
 POUSO: Voo DOM 24 aguardando recursos para pousar.
 PRIORIDADE: Voo DOM 24 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 12 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 12 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 12 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 17 obteve recursos. Pousando agora...
-POUSO: Voo DOM 16 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 16 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 16 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 15 obteve recursos. Pousando agora...
-INFO: Voo DOM 25 criado e iniciando procedimentos.
-POUSO: Voo DOM 25 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 25 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 23 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 25 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 13 esperando. 2 voo(s) INTL na frente.
-INFO: Voo INTL 26 criado e iniciando procedimentos.
-POUSO: Voo INTL 26 aguardando recursos para pousar.
 POUSO: Voo DOM 17 pousou e liberou a pista/torre.
 DESEMBARQUE: Voo DOM 17 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 17 esperando. 3 voo(s) INTL na frente.
-DESEMBARQUE: Voo DOM 9 atracou no portao. Desembarcando...
-POUSO: Voo DOM 15 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 15 aguardando recursos para desembarcar.
-DESEMBARQUE: Voo INTL 19 atracou no portao. Desembarcando...
-PRIORIDADE: Voo DOM 15 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 2 voo(s) INTL na frente.
+DECOLAGEM: Voo DOM 9 obteve recursos. Decolando agora...
+POUSO: Voo DOM 18 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 18 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
+DECOLAGEM: Voo DOM 5 obteve recursos. Decolando agora...
+PRIORIDADE: Voo DOM 23 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 24 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 2 voo(s) INTL na frente.
+INFO: Voo INTL 25 criado e iniciando procedimentos.
+POUSO: Voo INTL 25 aguardando recursos para pousar.
+INFO: Voo DOM 9 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 25 obteve recursos. Pousando agora...
+INFO: Voo DOM 5 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo DOM 11 atracou no portao. Desembarcando...
+INFO: Voo DOM 26 criado e iniciando procedimentos.
+POUSO: Voo DOM 26 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 26 esperando. 2 voo(s) INTL na frente.
 INFO: Voo INTL 27 criado e iniciando procedimentos.
 POUSO: Voo INTL 27 aguardando recursos para pousar.
-DESEMBARQUE: Voo DOM 9 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo DOM 9 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 9 esperando. 2 voo(s) INTL na frente.
-DECOLAGEM: Voo INTL 14 obteve recursos. Decolando agora...
-DESEMBARQUE: Voo INTL 19 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 19 aguardando recursos para decolar.
-POUSO: Voo INTL 26 obteve recursos. Pousando agora...
-INFO: Voo INTL 28 criado e iniciando procedimentos.
-POUSO: Voo INTL 28 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 17 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 9 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 20 esperando. 3 voo(s) INTL na frente.
-INFO: Voo INTL 14 decolou com sucesso e finalizou o ciclo.
-POUSO: Voo INTL 27 obteve recursos. Pousando agora...
-POUSO: Voo INTL 26 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 26 aguardando recursos para desembarcar.
-DECOLAGEM: Voo INTL 19 obteve recursos. Decolando agora...
-INFO: Voo INTL 29 criado e iniciando procedimentos.
-POUSO: Voo INTL 29 aguardando recursos para pousar.
-INFO: Voo DOM 30 criado e iniciando procedimentos.
-POUSO: Voo DOM 30 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 30 esperando. 3 voo(s) INTL na frente.
-POUSO: Voo INTL 27 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 27 aguardando recursos para desembarcar.
-POUSO: Voo INTL 29 obteve recursos. Pousando agora...
-INFO: Voo INTL 19 decolou com sucesso e finalizou o ciclo.
-DESEMBARQUE: Voo INTL 26 atracou no portao. Desembarcando...
-INFO: Voo INTL 31 criado e iniciando procedimentos.
-POUSO: Voo INTL 31 aguardando recursos para pousar.
-POUSO: Voo INTL 29 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 29 aguardando recursos para desembarcar.
-POUSO: Voo INTL 28 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 25 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 30 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 23 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 13 esperando. 3 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 26 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 26 aguardando recursos para decolar.
-DESEMBARQUE: Voo INTL 27 atracou no portao. Desembarcando...
-POUSO: Voo INTL 28 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 28 aguardando recursos para desembarcar.
-POUSO: Voo INTL 31 obteve recursos. Pousando agora...
-INFO: Voo DOM 32 criado e iniciando procedimentos.
-POUSO: Voo DOM 32 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 32 esperando. 3 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 27 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 27 aguardando recursos para decolar.
-DESEMBARQUE: Voo INTL 29 atracou no portao. Desembarcando...
-POUSO: Voo INTL 31 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 31 aguardando recursos para desembarcar.
-DECOLAGEM: Voo INTL 26 obteve recursos. Decolando agora...
-INFO: Voo DOM 33 criado e iniciando procedimentos.
-POUSO: Voo DOM 33 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 33 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 17 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 9 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 33 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 32 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 20 esperando. 3 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 3 voo(s) INTL na frente.
-INFO: Voo INTL 26 decolou com sucesso e finalizou o ciclo.
-DESEMBARQUE: Voo INTL 28 atracou no portao. Desembarcando...
-DESEMBARQUE: Voo INTL 29 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 29 aguardando recursos para decolar.
-DECOLAGEM: Voo INTL 27 obteve recursos. Decolando agora...
-INFO: Voo DOM 34 criado e iniciando procedimentos.
-POUSO: Voo DOM 34 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 34 esperando. 2 voo(s) INTL na frente.
-INFO: Voo INTL 27 decolou com sucesso e finalizou o ciclo.
-DESEMBARQUE: Voo INTL 31 atracou no portao. Desembarcando...
-DESEMBARQUE: Voo INTL 28 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 28 aguardando recursos para decolar.
-DECOLAGEM: Voo INTL 29 obteve recursos. Decolando agora...
-INFO: Voo DOM 35 criado e iniciando procedimentos.
-POUSO: Voo DOM 35 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 35 esperando. 1 voo(s) INTL na frente.
-INFO: Voo INTL 29 decolou com sucesso e finalizou o ciclo.
-POUSO: Voo DOM 22 obteve recursos. Pousando agora...
-INFO: Voo DOM 36 criado e iniciando procedimentos.
-POUSO: Voo DOM 36 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 36 esperando. 1 voo(s) INTL na frente.
-DESEMBARQUE: Voo INTL 31 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo INTL 31 aguardando recursos para decolar.
-POUSO: Voo DOM 34 obteve recursos. Pousando agora...
-INFO: Voo DOM 37 criado e iniciando procedimentos.
-POUSO: Voo DOM 37 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 37 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 22 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 22 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 22 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 25 obteve recursos. Pousando agora...
-INFO: Voo DOM 38 criado e iniciando procedimentos.
-POUSO: Voo DOM 38 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 38 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 34 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 34 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 34 esperando. 1 voo(s) INTL na frente.
-DECOLAGEM: Voo INTL 31 obteve recursos. Decolando agora...
-INFO: Voo DOM 39 criado e iniciando procedimentos.
-POUSO: Voo DOM 39 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 39 esperando. 1 voo(s) INTL na frente.
-POUSO: Voo DOM 25 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 25 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 25 esperando. 1 voo(s) INTL na frente.
-DESEMBARQUE: Voo DOM 18 atracou no portao. Desembarcando...
-PRIORIDADE: Voo DOM 25 esperando. 1 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 34 esperando. 1 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 1 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 39 esperando. 1 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 36 esperando. 1 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 37 esperando. 1 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 38 esperando. 1 voo(s) INTL na frente.
-INFO: Voo INTL 31 decolou com sucesso e finalizou o ciclo.
-DESEMBARQUE: Voo DOM 16 atracou no portao. Desembarcando...
-INFO: Voo DOM 40 criado e iniciando procedimentos.
-POUSO: Voo DOM 40 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 40 esperando. 1 voo(s) INTL na frente.
-INFO: Voo INTL 41 criado e iniciando procedimentos.
-POUSO: Voo INTL 41 aguardando recursos para pousar.
-DESEMBARQUE: Voo DOM 18 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo DOM 18 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
+POUSO: Voo INTL 25 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 25 aguardando recursos para desembarcar.
 DESEMBARQUE: Voo DOM 12 atracou no portao. Desembarcando...
-DESEMBARQUE: Voo DOM 16 finalizou o desembarque e liberou o portao/torre.
-DECOLAGEM: Voo DOM 16 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 16 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo DOM 24 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 40 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 2 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 35 esperando. 2 voo(s) INTL na frente.
-INFO: Voo INTL 42 criado e iniciando procedimentos.
-POUSO: Voo INTL 42 aguardando recursos para pousar.
-POUSO: Voo DOM 24 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 24 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 24 esperando. 2 voo(s) INTL na frente.
-POUSO: Voo INTL 42 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo DOM 11 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 11 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 11 esperando. 4 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 14 atracou no portao. Desembarcando...
+INFO: Voo DOM 28 criado e iniciando procedimentos.
+POUSO: Voo DOM 28 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 28 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 16 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 11 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 19 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 4 voo(s) INTL na frente.
 DESEMBARQUE: Voo DOM 12 finalizou o desembarque e liberou o portao/torre.
 DECOLAGEM: Voo DOM 12 aguardando recursos para decolar.
-PRIORIDADE: Voo DOM 12 esperando. 2 voo(s) INTL na frente.
-INFO: Voo INTL 43 criado e iniciando procedimentos.
-POUSO: Voo INTL 43 aguardando recursos para pousar.
-INFO: Voo DOM 44 criado e iniciando procedimentos.
-POUSO: Voo DOM 44 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 44 esperando. 3 voo(s) INTL na frente.
-POUSO: Voo INTL 42 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo INTL 42 aguardando recursos para desembarcar.
-DECOLAGEM: Voo DOM 9 obteve recursos. Decolando agora...
-INFO: Voo INTL 45 criado e iniciando procedimentos.
-POUSO: Voo INTL 45 aguardando recursos para pousar.
-INFO: Voo DOM 9 decolou com sucesso e finalizou o ciclo.
-POUSO: Voo DOM 21 obteve recursos. Pousando agora...
-PRIORIDADE: Voo DOM 12 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 38 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 39 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 44 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 25 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 36 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 34 esperando. 5 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 37 esperando. 5 voo(s) INTL na frente.
-INFO: Voo DOM 46 criado e iniciando procedimentos.
-POUSO: Voo DOM 46 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 46 esperando. 5 voo(s) INTL na frente.
-POUSO: Voo DOM 21 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 21 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 21 esperando. 5 voo(s) INTL na frente.
-POUSO: Voo DOM 30 obteve recursos. Pousando agora...
-POUSO: Voo DOM 30 pousou e liberou a pista/torre.
-DESEMBARQUE: Voo DOM 30 aguardando recursos para desembarcar.
-PRIORIDADE: Voo DOM 30 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 4 voo(s) INTL na frente.
+POUSO: Voo DOM 20 obteve recursos. Pousando agora...
+INFO: Voo INTL 29 criado e iniciando procedimentos.
+POUSO: Voo INTL 29 aguardando recursos para pousar.
+DESEMBARQUE: Voo DOM 14 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 14 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 14 esperando. 5 voo(s) INTL na frente.
 DESEMBARQUE: Voo DOM 15 atracou no portao. Desembarcando...
-INFO: Voo INTL 47 criado e iniciando procedimentos.
-POUSO: Voo INTL 47 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 40 esperando. 6 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 6 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 30 esperando. 6 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 6 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 46 esperando. 6 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 6 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 35 esperando. 6 voo(s) INTL na frente.
-INFO: Voo INTL 48 criado e iniciando procedimentos.
-POUSO: Voo INTL 48 aguardando recursos para pousar.
+INFO: Voo DOM 30 criado e iniciando procedimentos.
+POUSO: Voo DOM 30 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 30 esperando. 5 voo(s) INTL na frente.
+POUSO: Voo DOM 20 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 20 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 20 esperando. 4 voo(s) INTL na frente.
+POUSO: Voo INTL 21 obteve recursos. Pousando agora...
+INFO: Voo INTL 31 criado e iniciando procedimentos.
+POUSO: Voo INTL 31 aguardando recursos para pousar.
+POUSO: Voo INTL 21 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 21 aguardando recursos para desembarcar.
+POUSO: Voo INTL 31 obteve recursos. Pousando agora...
 DESEMBARQUE: Voo DOM 15 finalizou o desembarque e liberou o portao/torre.
 DECOLAGEM: Voo DOM 15 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 15 esperando. 5 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 8 atracou no portao. Desembarcando...
+PRIORIDADE: Voo DOM 17 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 14 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 20 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 23 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 24 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 18 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 30 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 15 esperando. 5 voo(s) INTL na frente.
+INFO: Voo DOM 32 criado e iniciando procedimentos.
+POUSO: Voo DOM 32 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 32 esperando. 5 voo(s) INTL na frente.
+POUSO: Voo INTL 31 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 31 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 22 atracou no portao. Desembarcando...
+INFO: Voo DOM 33 criado e iniciando procedimentos.
+POUSO: Voo DOM 33 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 33 esperando. 5 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 8 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 8 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 8 esperando. 5 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 13 atracou no portao. Desembarcando...
+INFO: Voo DOM 34 criado e iniciando procedimentos.
+POUSO: Voo DOM 34 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 34 esperando. 5 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 22 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 22 aguardando recursos para decolar.
+POUSO: Voo INTL 27 obteve recursos. Pousando agora...
+PRIORIDADE: Voo DOM 16 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 8 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 19 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 11 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 5 voo(s) INTL na frente.
+DESEMBARQUE: Voo DOM 13 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo DOM 13 aguardando recursos para decolar.
+PRIORIDADE: Voo DOM 13 esperando. 4 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 25 atracou no portao. Desembarcando...
+INFO: Voo INTL 35 criado e iniciando procedimentos.
+POUSO: Voo INTL 35 aguardando recursos para pousar.
+POUSO: Voo INTL 27 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 27 aguardando recursos para desembarcar.
+POUSO: Voo INTL 35 obteve recursos. Pousando agora...
+POUSO: Voo INTL 35 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 35 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 25 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 25 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 21 atracou no portao. Desembarcando...
+DECOLAGEM: Voo DOM 7 obteve recursos. Decolando agora...
+INFO: Voo INTL 36 criado e iniciando procedimentos.
+POUSO: Voo INTL 36 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 14 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 23 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 13 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 24 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 18 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 20 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 7 voo(s) INTL na frente.
 PRIORIDADE: Voo DOM 15 esperando. 7 voo(s) INTL na frente.
-INFO: Voo DOM 49 criado e iniciando procedimentos.
-POUSO: Voo DOM 49 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 49 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 30 esperando. 7 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 35 atracou no portao. Desembarcando...
+INFO: Voo DOM 7 decolou com sucesso e finalizou o ciclo.
+INFO: Voo INTL 37 criado e iniciando procedimentos.
+POUSO: Voo INTL 37 aguardando recursos para pousar.
+DESEMBARQUE: Voo INTL 21 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 21 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 22 obteve recursos. Decolando agora...
+DESEMBARQUE: Voo INTL 35 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 35 aguardando recursos para decolar.
+POUSO: Voo INTL 29 obteve recursos. Pousando agora...
+INFO: Voo INTL 22 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 37 obteve recursos. Pousando agora...
+INFO: Voo DOM 38 criado e iniciando procedimentos.
+POUSO: Voo DOM 38 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 38 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 16 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 19 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 11 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 8 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 38 esperando. 6 voo(s) INTL na frente.
+POUSO: Voo INTL 29 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 29 aguardando recursos para desembarcar.
+POUSO: Voo INTL 36 obteve recursos. Pousando agora...
+POUSO: Voo INTL 37 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 37 aguardando recursos para desembarcar.
+DECOLAGEM: Voo INTL 21 obteve recursos. Decolando agora...
+INFO: Voo INTL 39 criado e iniciando procedimentos.
+POUSO: Voo INTL 39 aguardando recursos para pousar.
+POUSO: Voo INTL 36 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 36 aguardando recursos para desembarcar.
+INFO: Voo INTL 21 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 35 obteve recursos. Decolando agora...
+DECOLAGEM: Voo INTL 25 obteve recursos. Decolando agora...
+INFO: Voo INTL 35 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo INTL 31 atracou no portao. Desembarcando...
+INFO: Voo INTL 25 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo INTL 27 atracou no portao. Desembarcando...
+PRIORIDADE: Voo DOM 14 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 23 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 13 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 18 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 15 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 24 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 20 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 30 esperando. 4 voo(s) INTL na frente.
+INFO: Voo DOM 40 criado e iniciando procedimentos.
+POUSO: Voo DOM 40 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 40 esperando. 4 voo(s) INTL na frente.
+INFO: Voo INTL 41 criado e iniciando procedimentos.
+POUSO: Voo INTL 41 aguardando recursos para pousar.
+DESEMBARQUE: Voo INTL 31 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 31 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 36 atracou no portao. Desembarcando...
+DESEMBARQUE: Voo INTL 27 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 27 aguardando recursos para decolar.
+POUSO: Voo INTL 39 obteve recursos. Pousando agora...
+POUSO: Voo INTL 39 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 39 aguardando recursos para desembarcar.
+DECOLAGEM: Voo INTL 27 obteve recursos. Decolando agora...
+PRIORIDADE: Voo DOM 40 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 16 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 11 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 19 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 8 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 38 esperando. 5 voo(s) INTL na frente.
+INFO: Voo DOM 42 criado e iniciando procedimentos.
+POUSO: Voo DOM 42 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 42 esperando. 5 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 36 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 36 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 29 atracou no portao. Desembarcando...
+INFO: Voo INTL 27 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 41 obteve recursos. Pousando agora...
+INFO: Voo INTL 43 criado e iniciando procedimentos.
+POUSO: Voo INTL 43 aguardando recursos para pousar.
+POUSO: Voo INTL 41 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 41 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 29 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 29 aguardando recursos para decolar.
+POUSO: Voo INTL 43 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo INTL 37 atracou no portao. Desembarcando...
+INFO: Voo INTL 44 criado e iniciando procedimentos.
+POUSO: Voo INTL 44 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 13 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 18 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 23 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 42 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 24 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 17 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 14 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 20 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 30 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 15 esperando. 6 voo(s) INTL na frente.
+INFO: Voo INTL 45 criado e iniciando procedimentos.
+POUSO: Voo INTL 45 aguardando recursos para pousar.
+POUSO: Voo INTL 43 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 43 aguardando recursos para desembarcar.
+POUSO: Voo INTL 44 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo INTL 37 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 37 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 36 obteve recursos. Decolando agora...
+INFO: Voo DOM 46 criado e iniciando procedimentos.
+POUSO: Voo DOM 46 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 46 esperando. 7 voo(s) INTL na frente.
+POUSO: Voo INTL 44 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 44 aguardando recursos para desembarcar.
+POUSO: Voo INTL 45 obteve recursos. Pousando agora...
+INFO: Voo INTL 47 criado e iniciando procedimentos.
+POUSO: Voo INTL 47 aguardando recursos para pousar.
+INFO: Voo INTL 36 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo INTL 43 atracou no portao. Desembarcando...
+INFO: Voo INTL 48 criado e iniciando procedimentos.
+POUSO: Voo INTL 48 aguardando recursos para pousar.
+POUSO: Voo INTL 45 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 45 aguardando recursos para desembarcar.
+POUSO: Voo INTL 47 obteve recursos. Pousando agora...
+PRIORIDADE: Voo DOM 32 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 16 em estado critico de espera! (62s)
+PRIORIDADE: Voo DOM 16 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 40 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 8 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 38 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 11 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 19 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 19 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 8 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 43 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 43 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 31 obteve recursos. Decolando agora...
+POUSO: Voo INTL 47 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 47 aguardando recursos para desembarcar.
+POUSO: Voo INTL 48 obteve recursos. Pousando agora...
+INFO: Voo INTL 49 criado e iniciando procedimentos.
+POUSO: Voo INTL 49 aguardando recursos para pousar.
+DESEMBARQUE: Voo INTL 44 atracou no portao. Desembarcando...
+INFO: Voo INTL 31 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 48 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 48 aguardando recursos para desembarcar.
+POUSO: Voo INTL 49 obteve recursos. Pousando agora...
+ALERTA: Voo DOM 23 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 23 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 17 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 17 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 24 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 24 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 42 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 14 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 12 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 18 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 18 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 13 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 15 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 20 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 30 esperando. 8 voo(s) INTL na frente.
 INFO: Voo INTL 50 criado e iniciando procedimentos.
 POUSO: Voo INTL 50 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 36 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 34 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 39 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 49 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 38 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 37 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 25 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 44 esperando. 8 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 8 voo(s) INTL na frente.
-INFO: Voo INTL 51 criado e iniciando procedimentos.
-POUSO: Voo INTL 51 aguardando recursos para pousar.
-INFO: Voo INTL 52 criado e iniciando procedimentos.
-POUSO: Voo INTL 52 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 30 esperando. 10 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 10 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 40 esperando. 10 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 46 esperando. 10 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 10 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 10 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 35 esperando. 10 voo(s) INTL na frente.
+POUSO: Voo INTL 49 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 49 aguardando recursos para desembarcar.
+POUSO: Voo INTL 50 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo INTL 44 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 44 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 45 atracou no portao. Desembarcando...
+POUSO: Voo INTL 50 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 50 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 41 atracou no portao. Desembarcando...
+INFO: Voo DOM 51 criado e iniciando procedimentos.
+POUSO: Voo DOM 51 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 51 esperando. 9 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 45 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 45 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 43 obteve recursos. Decolando agora...
+PRIORIDADE: Voo DOM 40 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 38 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 9 voo(s) INTL na frente.
+ALERTA: Voo DOM 28 em estado critico de espera! (62s)
+PRIORIDADE: Voo DOM 28 esperando. 9 voo(s) INTL na frente.
+ALERTA: Voo DOM 16 em estado critico de espera! (72s)
+PRIORIDADE: Voo DOM 16 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 8 esperando. 9 voo(s) INTL na frente.
+ALERTA: Voo DOM 26 em estado critico de espera! (65s)
+PRIORIDADE: Voo DOM 26 esperando. 9 voo(s) INTL na frente.
+ALERTA: Voo DOM 19 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 19 esperando. 9 voo(s) INTL na frente.
+ALERTA: Voo DOM 11 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 11 esperando. 9 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 51 esperando. 9 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 41 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 41 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 47 atracou no portao. Desembarcando...
+INFO: Voo DOM 52 criado e iniciando procedimentos.
+POUSO: Voo DOM 52 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 52 esperando. 9 voo(s) INTL na frente.
+INFO: Voo INTL 43 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo INTL 48 atracou no portao. Desembarcando...
 INFO: Voo DOM 53 criado e iniciando procedimentos.
 POUSO: Voo DOM 53 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 53 esperando. 10 voo(s) INTL na frente.
-INFO: Voo INTL 54 criado e iniciando procedimentos.
-POUSO: Voo INTL 54 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 38 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 53 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 34 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 37 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 36 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 49 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 39 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 25 esperando. 11 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 44 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 8 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 47 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 47 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 49 atracou no portao. Desembarcando...
+INFO: Voo DOM 54 criado e iniciando procedimentos.
+POUSO: Voo DOM 54 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 54 esperando. 8 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 48 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 48 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 44 obteve recursos. Decolando agora...
+PRIORIDADE: Voo DOM 52 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 12 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 12 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 17 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 17 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 20 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 20 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 18 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 18 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 30 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 30 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 24 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 24 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 13 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 23 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 23 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 42 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 14 em estado critico de espera! (65s)
+PRIORIDADE: Voo DOM 14 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 15 em estado critico de espera! (62s)
+PRIORIDADE: Voo DOM 15 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 54 esperando. 8 voo(s) INTL na frente.
+INFO: Voo INTL 44 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo INTL 50 atracou no portao. Desembarcando...
+DESEMBARQUE: Voo INTL 49 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 49 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 39 atracou no portao. Desembarcando...
 INFO: Voo INTL 55 criado e iniciando procedimentos.
 POUSO: Voo INTL 55 aguardando recursos para pousar.
-INFO: Voo INTL 56 criado e iniciando procedimentos.
-POUSO: Voo INTL 56 aguardando recursos para pousar.
-INFO: Voo DOM 57 criado e iniciando procedimentos.
-POUSO: Voo DOM 57 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 57 esperando. 13 voo(s) INTL na frente.
+INFO: Voo DOM 56 criado e iniciando procedimentos.
+POUSO: Voo DOM 56 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 56 esperando. 8 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 50 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 50 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 29 obteve recursos. Decolando agora...
+DESEMBARQUE: Voo INTL 39 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 39 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 37 obteve recursos. Decolando agora...
+PRIORIDADE: Voo DOM 40 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 38 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 32 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 32 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 8 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 8 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 16 em estado critico de espera! (82s)
+PRIORIDADE: Voo DOM 16 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 19 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 19 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 11 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 11 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 33 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 33 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 28 em estado critico de espera! (72s)
+PRIORIDADE: Voo DOM 28 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 34 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 34 esperando. 8 voo(s) INTL na frente.
+ALERTA: Voo DOM 26 em estado critico de espera! (75s)
+PRIORIDADE: Voo DOM 26 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 51 esperando. 8 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 56 esperando. 8 voo(s) INTL na frente.
+INFO: Voo INTL 57 criado e iniciando procedimentos.
+POUSO: Voo INTL 57 aguardando recursos para pousar.
+INFO: Voo INTL 29 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 48 obteve recursos. Decolando agora...
+INFO: Voo INTL 37 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 41 obteve recursos. Decolando agora...
 INFO: Voo DOM 58 criado e iniciando procedimentos.
 POUSO: Voo DOM 58 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 58 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 30 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 58 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 57 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 46 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 40 esperando. 13 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 35 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 58 esperando. 7 voo(s) INTL na frente.
+INFO: Voo INTL 48 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 45 obteve recursos. Decolando agora...
+INFO: Voo INTL 41 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 47 obteve recursos. Decolando agora...
+ALERTA: Voo DOM 30 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 30 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 58 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 14 em estado critico de espera! (75s)
+PRIORIDADE: Voo DOM 14 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 17 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 17 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 20 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 20 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 13 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 13 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 12 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 12 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 24 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 24 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 18 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 18 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 15 em estado critico de espera! (72s)
+PRIORIDADE: Voo DOM 15 esperando. 5 voo(s) INTL na frente.
+ALERTA: Voo DOM 23 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 23 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 52 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 54 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 42 esperando. 5 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 5 voo(s) INTL na frente.
 INFO: Voo INTL 59 criado e iniciando procedimentos.
 POUSO: Voo INTL 59 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 49 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 34 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 39 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 44 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 53 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 38 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 25 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 22 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 37 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 36 esperando. 14 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 14 voo(s) INTL na frente.
-INFO: Voo DOM 60 criado e iniciando procedimentos.
-POUSO: Voo DOM 60 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 60 esperando. 14 voo(s) INTL na frente.
-INFO: Voo INTL 61 criado e iniciando procedimentos.
-POUSO: Voo INTL 61 aguardando recursos para pousar.
-INFO: Voo INTL 62 criado e iniciando procedimentos.
-POUSO: Voo INTL 62 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 30 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 40 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 58 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 57 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 46 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 18 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 16 esperando. 16 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 35 esperando. 16 voo(s) INTL na frente.
-INFO: Voo INTL 63 criado e iniciando procedimentos.
-POUSO: Voo INTL 63 aguardando recursos para pousar.
-INFO: Voo INTL 64 criado e iniciando procedimentos.
-POUSO: Voo INTL 64 aguardando recursos para pousar.
-ALERTA: Voo DOM 36 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 36 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 44 esperando. 18 voo(s) INTL na frente.
-ALERTA: Voo DOM 34 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 34 esperando. 18 voo(s) INTL na frente.
-ALERTA: Voo DOM 39 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 39 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 12 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 49 esperando. 18 voo(s) INTL na frente.
-ALERTA: Voo DOM 25 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 25 esperando. 18 voo(s) INTL na frente.
-ALERTA: Voo DOM 37 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 37 esperando. 18 voo(s) INTL na frente.
-ALERTA: Voo DOM 38 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 38 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 53 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 24 esperando. 18 voo(s) INTL na frente.
-ALERTA: Voo DOM 22 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 22 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 18 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 60 esperando. 18 voo(s) INTL na frente.
-INFO: Voo INTL 65 criado e iniciando procedimentos.
-POUSO: Voo INTL 65 aguardando recursos para pousar.
-ALERTA: Voo DOM 40 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 40 esperando. 19 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 21 esperando. 19 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 30 esperando. 19 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 57 esperando. 19 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 46 esperando. 19 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 58 esperando. 19 voo(s) INTL na frente.
-ALERTA: Voo DOM 18 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 18 esperando. 19 voo(s) INTL na frente.
-ALERTA: Voo DOM 16 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 16 esperando. 19 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 35 esperando. 19 voo(s) INTL na frente.
-INFO: Voo DOM 66 criado e iniciando procedimentos.
-POUSO: Voo DOM 66 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 66 esperando. 19 voo(s) INTL na frente.
+INFO: Voo INTL 45 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 55 obteve recursos. Pousando agora...
+INFO: Voo INTL 47 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 49 obteve recursos. Decolando agora...
+POUSO: Voo INTL 55 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 55 aguardando recursos para desembarcar.
+DECOLAGEM: Voo INTL 50 obteve recursos. Decolando agora...
+INFO: Voo INTL 49 decolou com sucesso e finalizou o ciclo.
+DECOLAGEM: Voo INTL 39 obteve recursos. Decolando agora...
+INFO: Voo INTL 60 criado e iniciando procedimentos.
+POUSO: Voo INTL 60 aguardando recursos para pousar.
+INFO: Voo INTL 50 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 59 obteve recursos. Pousando agora...
+INFO: Voo INTL 39 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 60 obteve recursos. Pousando agora...
+ALERTA: Voo DOM 38 em estado critico de espera! (62s)
+PRIORIDADE: Voo DOM 38 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 32 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 32 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 26 em estado critico de espera! (85s)
+PRIORIDADE: Voo DOM 26 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 40 esperando. 2 voo(s) INTL na frente.
+STARVATION: Voo DOM 19 caiu por excesso de tempo de espera! (94s)
+ALERTA: Voo DOM 28 em estado critico de espera! (82s)
+PRIORIDADE: Voo DOM 28 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 34 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 34 esperando. 2 voo(s) INTL na frente.
+STARVATION: Voo DOM 16 caiu por excesso de tempo de espera! (92s)
+ALERTA: Voo DOM 33 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 33 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 8 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 8 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 51 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 11 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 11 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 56 esperando. 2 voo(s) INTL na frente.
+INFO: Voo DOM 61 criado e iniciando procedimentos.
+POUSO: Voo DOM 61 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 61 esperando. 2 voo(s) INTL na frente.
+POUSO: Voo INTL 59 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 59 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 55 atracou no portao. Desembarcando...
+POUSO: Voo INTL 60 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 60 aguardando recursos para desembarcar.
+POUSO: Voo INTL 57 obteve recursos. Pousando agora...
+POUSO: Voo INTL 57 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 57 aguardando recursos para desembarcar.
+DESEMBARQUE: Voo INTL 59 atracou no portao. Desembarcando...
+INFO: Voo DOM 62 criado e iniciando procedimentos.
+POUSO: Voo DOM 62 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 62 esperando. 2 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 55 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 55 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 60 atracou no portao. Desembarcando...
+PRIORIDADE: Voo DOM 58 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 30 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 30 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 14 em estado critico de espera! (85s)
+PRIORIDADE: Voo DOM 14 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 12 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 12 esperando. 2 voo(s) INTL na frente.
+ALERTA: Voo DOM 13 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 13 esperando. 2 voo(s) INTL na frente.
+STARVATION: Voo DOM 17 caiu por excesso de tempo de espera! (93s)
+ALERTA: Voo DOM 20 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 20 esperando. 2 voo(s) INTL na frente.
+STARVATION: Voo DOM 24 caiu por excesso de tempo de espera! (93s)
+PRIORIDADE: Voo DOM 62 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 61 esperando. 2 voo(s) INTL na frente.
+STARVATION: Voo DOM 18 caiu por excesso de tempo de espera! (93s)
+ALERTA: Voo DOM 15 em estado critico de espera! (82s)
+PRIORIDADE: Voo DOM 15 esperando. 2 voo(s) INTL na frente.
+STARVATION: Voo DOM 23 caiu por excesso de tempo de espera! (94s)
+PRIORIDADE: Voo DOM 52 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 54 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 42 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 2 voo(s) INTL na frente.
+INFO: Voo DOM 63 criado e iniciando procedimentos.
+POUSO: Voo DOM 63 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 63 esperando. 2 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 59 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 59 aguardando recursos para decolar.
+DESEMBARQUE: Voo INTL 57 atracou no portao. Desembarcando...
+INFO: Voo DOM 64 criado e iniciando procedimentos.
+POUSO: Voo DOM 64 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 64 esperando. 2 voo(s) INTL na frente.
+DESEMBARQUE: Voo INTL 60 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 60 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 55 obteve recursos. Decolando agora...
+INFO: Voo DOM 65 criado e iniciando procedimentos.
+POUSO: Voo DOM 65 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 65 esperando. 2 voo(s) INTL na frente.
+INFO: Voo INTL 55 decolou com sucesso e finalizou o ciclo.
+DESEMBARQUE: Voo INTL 57 finalizou o desembarque e liberou o portao/torre.
+DECOLAGEM: Voo INTL 57 aguardando recursos para decolar.
+DECOLAGEM: Voo INTL 60 obteve recursos. Decolando agora...
+DECOLAGEM: Voo INTL 59 obteve recursos. Decolando agora...
+INFO: Voo INTL 66 criado e iniciando procedimentos.
+POUSO: Voo INTL 66 aguardando recursos para pousar.
+INFO: Voo INTL 60 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo INTL 66 obteve recursos. Pousando agora...
+INFO: Voo INTL 59 decolou com sucesso e finalizou o ciclo.
+POUSO: Voo DOM 54 obteve recursos. Pousando agora...
 INFO: Voo DOM 67 criado e iniciando procedimentos.
 POUSO: Voo DOM 67 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 67 esperando. 19 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 67 esperando. 1 voo(s) INTL na frente.
+POUSO: Voo INTL 66 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 66 aguardando recursos para desembarcar.
+POUSO: Voo DOM 54 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 54 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 54 esperando. 2 voo(s) INTL na frente.
+POUSO: Voo DOM 63 obteve recursos. Pousando agora...
+POUSO: Voo DOM 53 obteve recursos. Pousando agora...
+PRIORIDADE: Voo DOM 54 esperando. 2 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 67 esperando. 2 voo(s) INTL na frente.
 INFO: Voo INTL 68 criado e iniciando procedimentos.
 POUSO: Voo INTL 68 aguardando recursos para pousar.
+POUSO: Voo DOM 63 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 63 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 63 esperando. 2 voo(s) INTL na frente.
+POUSO: Voo DOM 65 obteve recursos. Pousando agora...
+POUSO: Voo INTL 68 obteve recursos. Pousando agora...
+POUSO: Voo DOM 53 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 53 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 53 esperando. 2 voo(s) INTL na frente.
 INFO: Voo INTL 69 criado e iniciando procedimentos.
 POUSO: Voo INTL 69 aguardando recursos para pousar.
-ALERTA: Voo DOM 36 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 36 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 38 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 38 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 12 em estado critico de espera! (67s)
-PRIORIDADE: Voo DOM 12 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 25 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 25 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 39 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 39 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 34 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 34 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 44 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 44 esperando. 21 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 67 esperando. 21 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 49 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 37 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 37 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 24 em estado critico de espera! (67s)
-PRIORIDADE: Voo DOM 24 esperando. 21 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 53 esperando. 21 voo(s) INTL na frente.
-ALERTA: Voo DOM 22 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 22 esperando. 21 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 15 esperando. 21 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 60 esperando. 21 voo(s) INTL na frente.
+POUSO: Voo DOM 65 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 65 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 65 esperando. 2 voo(s) INTL na frente.
+POUSO: Voo DOM 26 obteve recursos. Pousando agora...
+POUSO: Voo INTL 69 obteve recursos. Pousando agora...
+POUSO: Voo INTL 68 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 68 aguardando recursos para desembarcar.
 INFO: Voo DOM 70 criado e iniciando procedimentos.
 POUSO: Voo DOM 70 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 70 esperando. 21 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 70 esperando. 3 voo(s) INTL na frente.
+POUSO: Voo DOM 26 pousou e liberou a pista/torre.
+POUSO: Voo DOM 46 obteve recursos. Pousando agora...
+POUSO: Voo INTL 69 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 69 aguardando recursos para desembarcar.
+POUSO: Voo DOM 32 obteve recursos. Pousando agora...
+DESEMBARQUE: Voo DOM 26 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 26 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 63 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 65 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 4 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 70 esperando. 4 voo(s) INTL na frente.
 INFO: Voo INTL 71 criado e iniciando procedimentos.
 POUSO: Voo INTL 71 aguardando recursos para pousar.
-ALERTA: Voo DOM 40 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 40 esperando. 22 voo(s) INTL na frente.
-ALERTA: Voo DOM 46 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 46 esperando. 22 voo(s) INTL na frente.
-ALERTA: Voo DOM 21 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 21 esperando. 22 voo(s) INTL na frente.
-ALERTA: Voo DOM 30 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 30 esperando. 22 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 70 esperando. 22 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 57 esperando. 22 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 58 esperando. 22 voo(s) INTL na frente.
-ALERTA: Voo DOM 18 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 18 esperando. 22 voo(s) INTL na frente.
-ALERTA: Voo DOM 16 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 16 esperando. 22 voo(s) INTL na frente.
-ALERTA: Voo DOM 35 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 35 esperando. 22 voo(s) INTL na frente.
-INFO: Voo DOM 72 criado e iniciando procedimentos.
-POUSO: Voo DOM 72 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 72 esperando. 22 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 66 esperando. 22 voo(s) INTL na frente.
+POUSO: Voo DOM 46 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 46 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 46 esperando. 4 voo(s) INTL na frente.
+POUSO: Voo INTL 71 obteve recursos. Pousando agora...
+POUSO: Voo DOM 32 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 32 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 32 esperando. 4 voo(s) INTL na frente.
+POUSO: Voo DOM 28 obteve recursos. Pousando agora...
+POUSO: Voo INTL 71 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 71 aguardando recursos para desembarcar.
+POUSO: Voo DOM 34 obteve recursos. Pousando agora...
+POUSO: Voo DOM 28 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 28 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 28 esperando. 5 voo(s) INTL na frente.
+POUSO: Voo DOM 33 obteve recursos. Pousando agora...
+INFO: Voo INTL 72 criado e iniciando procedimentos.
+POUSO: Voo INTL 72 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 54 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 6 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 67 esperando. 6 voo(s) INTL na frente.
+POUSO: Voo DOM 34 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 34 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 34 esperando. 5 voo(s) INTL na frente.
+POUSO: Voo INTL 72 obteve recursos. Pousando agora...
+POUSO: Voo DOM 33 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo DOM 33 aguardando recursos para desembarcar.
+PRIORIDADE: Voo DOM 33 esperando. 5 voo(s) INTL na frente.
 INFO: Voo DOM 73 criado e iniciando procedimentos.
 POUSO: Voo DOM 73 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 73 esperando. 22 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 73 esperando. 5 voo(s) INTL na frente.
+POUSO: Voo INTL 72 pousou e liberou a pista/torre.
+DESEMBARQUE: Voo INTL 72 aguardando recursos para desembarcar.
 INFO: Voo INTL 74 criado e iniciando procedimentos.
 POUSO: Voo INTL 74 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 73 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 65 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 63 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 7 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 70 esperando. 7 voo(s) INTL na frente.
 INFO: Voo DOM 75 criado e iniciando procedimentos.
 POUSO: Voo DOM 75 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 75 esperando. 23 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 53 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 38 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 38 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 12 em estado critico de espera! (77s)
-PRIORIDADE: Voo DOM 12 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 34 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 34 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 25 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 25 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 39 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 39 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 36 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 36 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 37 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 37 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 49 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 49 esperando. 23 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 73 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 44 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 44 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 24 em estado critico de espera! (77s)
-PRIORIDADE: Voo DOM 24 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 15 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 15 esperando. 23 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 75 esperando. 23 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 67 esperando. 23 voo(s) INTL na frente.
-ALERTA: Voo DOM 22 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 22 esperando. 23 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 60 esperando. 23 voo(s) INTL na frente.
-INFO: Voo DOM 76 criado e iniciando procedimentos.
-POUSO: Voo DOM 76 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 76 esperando. 23 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 75 esperando. 7 voo(s) INTL na frente.
+INFO: Voo INTL 76 criado e iniciando procedimentos.
+POUSO: Voo INTL 76 aguardando recursos para pousar.
 INFO: Voo INTL 77 criado e iniciando procedimentos.
 POUSO: Voo INTL 77 aguardando recursos para pousar.
 INFO: Voo INTL 78 criado e iniciando procedimentos.
 POUSO: Voo INTL 78 aguardando recursos para pousar.
-ALERTA: Voo DOM 46 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 46 esperando. 25 voo(s) INTL na frente.
-ALERTA: Voo DOM 21 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 21 esperando. 25 voo(s) INTL na frente.
-ALERTA: Voo DOM 30 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 30 esperando. 25 voo(s) INTL na frente.
-ALERTA: Voo DOM 40 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 40 esperando. 25 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 58 esperando. 25 voo(s) INTL na frente.
-ALERTA: Voo DOM 18 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 18 esperando. 25 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 57 esperando. 25 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 70 esperando. 25 voo(s) INTL na frente.
-ALERTA: Voo DOM 16 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 16 esperando. 25 voo(s) INTL na frente.
-ALERTA: Voo DOM 35 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 35 esperando. 25 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 72 esperando. 25 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 66 esperando. 25 voo(s) INTL na frente.
-INFO: Voo INTL 79 criado e iniciando procedimentos.
-POUSO: Voo INTL 79 aguardando recursos para pousar.
-ALERTA: Voo DOM 12 em estado critico de espera! (87s)
-PRIORIDADE: Voo DOM 12 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 25 caiu por excesso de tempo de espera! (93s)
-ALERTA: Voo DOM 44 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 44 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 53 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 53 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 34 caiu por excesso de tempo de espera! (94s)
-PRIORIDADE: Voo DOM 73 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 37 caiu por excesso de tempo de espera! (95s)
-ALERTA: Voo DOM 15 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 15 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 24 em estado critico de espera! (87s)
-PRIORIDADE: Voo DOM 24 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 36 caiu por excesso de tempo de espera! (96s)
-PRIORIDADE: Voo DOM 67 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 49 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 49 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 38 caiu por excesso de tempo de espera! (94s)
-STARVATION: Voo DOM 22 caiu por excesso de tempo de espera! (95s)
-STARVATION: Voo DOM 39 caiu por excesso de tempo de espera! (93s)
-PRIORIDADE: Voo DOM 75 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 60 esperando. 26 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 67 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 54 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 75 esperando. 10 voo(s) INTL na frente.
+INFO: Voo DOM 79 criado e iniciando procedimentos.
+POUSO: Voo DOM 79 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 79 esperando. 10 voo(s) INTL na frente.
 INFO: Voo DOM 80 criado e iniciando procedimentos.
 POUSO: Voo DOM 80 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 80 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 76 esperando. 26 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 80 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 65 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 63 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 79 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 70 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 80 esperando. 10 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 73 esperando. 10 voo(s) INTL na frente.
 INFO: Voo DOM 81 criado e iniciando procedimentos.
 POUSO: Voo DOM 81 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 81 esperando. 26 voo(s) INTL na frente.
-INFO: Voo DOM 82 criado e iniciando procedimentos.
-POUSO: Voo DOM 82 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 82 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 58 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 58 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 46 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 46 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 21 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 21 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 30 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 30 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 81 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 70 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 40 caiu por excesso de tempo de espera! (96s)
-PRIORIDADE: Voo DOM 82 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 57 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 57 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 18 caiu por excesso de tempo de espera! (95s)
-STARVATION: Voo DOM 16 caiu por excesso de tempo de espera! (94s)
-ALERTA: Voo DOM 35 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 35 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 72 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 66 esperando. 26 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 81 esperando. 10 voo(s) INTL na frente.
+INFO: Voo INTL 82 criado e iniciando procedimentos.
+POUSO: Voo INTL 82 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 81 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 54 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 67 esperando. 11 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 75 esperando. 11 voo(s) INTL na frente.
 INFO: Voo DOM 83 criado e iniciando procedimentos.
 POUSO: Voo DOM 83 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 83 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 53 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 53 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 49 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 49 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 44 caiu por excesso de tempo de espera! (95s)
-STARVATION: Voo DOM 12 caiu por excesso de tempo de espera! (97s)
-PRIORIDADE: Voo DOM 75 esperando. 26 voo(s) INTL na frente.
-STARVATION: Voo DOM 24 caiu por excesso de tempo de espera! (97s)
-PRIORIDADE: Voo DOM 83 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 67 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 73 esperando. 26 voo(s) INTL na frente.
-ALERTA: Voo DOM 15 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 15 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 60 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 80 esperando. 26 voo(s) INTL na frente.
-INFO: Voo DOM 84 criado e iniciando procedimentos.
-POUSO: Voo DOM 84 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 76 esperando. 26 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 26 voo(s) INTL na frente.
-INFO: Voo INTL 85 criado e iniciando procedimentos.
-POUSO: Voo INTL 85 aguardando recursos para pousar.
-INFO: Voo INTL 86 criado e iniciando procedimentos.
-POUSO: Voo INTL 86 aguardando recursos para pousar.
-INFO: Voo DOM 87 criado e iniciando procedimentos.
-POUSO: Voo DOM 87 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 87 esperando. 28 voo(s) INTL na frente.
-ALERTA: Voo DOM 58 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 58 esperando. 28 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 81 esperando. 28 voo(s) INTL na frente.
-STARVATION: Voo DOM 21 caiu por excesso de tempo de espera! (96s)
-STARVATION: Voo DOM 46 caiu por excesso de tempo de espera! (96s)
-STARVATION: Voo DOM 35 caiu por excesso de tempo de espera! (100s)
-PRIORIDADE: Voo DOM 70 esperando. 28 voo(s) INTL na frente.
-ALERTA: Voo DOM 57 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 57 esperando. 28 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 82 esperando. 28 voo(s) INTL na frente.
-STARVATION: Voo DOM 30 caiu por excesso de tempo de espera! (94s)
-PRIORIDADE: Voo DOM 87 esperando. 28 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 72 esperando. 28 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 66 esperando. 28 voo(s) INTL na frente.
-INFO: Voo INTL 88 criado e iniciando procedimentos.
-POUSO: Voo INTL 88 aguardando recursos para pousar.
-INFO: Voo INTL 89 criado e iniciando procedimentos.
-POUSO: Voo INTL 89 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 67 esperando. 30 voo(s) INTL na frente.
-ALERTA: Voo DOM 53 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 53 esperando. 30 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 73 esperando. 30 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 75 esperando. 30 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 83 esperando. 30 voo(s) INTL na frente.
-STARVATION: Voo DOM 49 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 60 esperando. 30 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 80 esperando. 30 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 30 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 76 esperando. 30 voo(s) INTL na frente.
-STARVATION: Voo DOM 15 caiu por excesso de tempo de espera! (96s)
-INFO: Voo DOM 90 criado e iniciando procedimentos.
-POUSO: Voo DOM 90 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 90 esperando. 30 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 83 esperando. 11 voo(s) INTL na frente.
+INFO: Voo INTL 84 criado e iniciando procedimentos.
+POUSO: Voo INTL 84 aguardando recursos para pousar.
+INFO: Voo DOM 85 criado e iniciando procedimentos.
+POUSO: Voo DOM 85 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 85 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 65 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 83 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 63 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 80 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 79 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 73 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 70 esperando. 12 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 85 esperando. 12 voo(s) INTL na frente.
+INFO: Voo DOM 86 criado e iniciando procedimentos.
+POUSO: Voo DOM 86 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 86 esperando. 12 voo(s) INTL na frente.
+INFO: Voo INTL 87 criado e iniciando procedimentos.
+POUSO: Voo INTL 87 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 81 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 54 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 67 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 86 esperando. 13 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 75 esperando. 13 voo(s) INTL na frente.
+INFO: Voo DOM 88 criado e iniciando procedimentos.
+POUSO: Voo DOM 88 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 88 esperando. 13 voo(s) INTL na frente.
+INFO: Voo DOM 89 criado e iniciando procedimentos.
+POUSO: Voo DOM 89 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 89 esperando. 13 voo(s) INTL na frente.
+INFO: Voo INTL 90 criado e iniciando procedimentos.
+POUSO: Voo INTL 90 aguardando recursos para pousar.
 INFO: Voo INTL 91 criado e iniciando procedimentos.
 POUSO: Voo INTL 91 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 87 esperando. 31 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 82 esperando. 31 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 81 esperando. 31 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 90 esperando. 31 voo(s) INTL na frente.
-ALERTA: Voo DOM 58 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 58 esperando. 31 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 66 esperando. 31 voo(s) INTL na frente.
-ALERTA: Voo DOM 57 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 57 esperando. 31 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 70 esperando. 31 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 72 esperando. 31 voo(s) INTL na frente.
-INFO: Voo INTL 92 criado e iniciando procedimentos.
-POUSO: Voo INTL 92 aguardando recursos para pousar.
-INFO: Voo DOM 93 criado e iniciando procedimentos.
-POUSO: Voo DOM 93 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 93 esperando. 32 voo(s) INTL na frente.
-INFO: Voo INTL 94 criado e iniciando procedimentos.
-POUSO: Voo INTL 94 aguardando recursos para pousar.
-STARVATION: Voo DOM 53 caiu por excesso de tempo de espera! (96s)
-PRIORIDADE: Voo DOM 80 esperando. 33 voo(s) INTL na frente.
-ALERTA: Voo DOM 67 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 67 esperando. 33 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 75 esperando. 33 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 73 esperando. 33 voo(s) INTL na frente.
-ALERTA: Voo DOM 60 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 60 esperando. 33 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 93 esperando. 33 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 76 esperando. 33 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 83 esperando. 33 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 33 voo(s) INTL na frente.
-INFO: Voo DOM 95 criado e iniciando procedimentos.
-POUSO: Voo DOM 95 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 95 esperando. 33 voo(s) INTL na frente.
-INFO: Voo INTL 96 criado e iniciando procedimentos.
-POUSO: Voo INTL 96 aguardando recursos para pousar.
-INFO: Voo DOM 97 criado e iniciando procedimentos.
-POUSO: Voo DOM 97 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 97 esperando. 34 voo(s) INTL na frente.
-STARVATION: Voo DOM 58 caiu por excesso de tempo de espera! (93s)
-STARVATION: Voo DOM 57 caiu por excesso de tempo de espera! (94s)
-PRIORIDADE: Voo DOM 87 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 82 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 95 esperando. 34 voo(s) INTL na frente.
-ALERTA: Voo DOM 70 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 70 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 97 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 81 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 72 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 90 esperando. 34 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 66 esperando. 34 voo(s) INTL na frente.
-INFO: Voo INTL 98 criado e iniciando procedimentos.
-POUSO: Voo INTL 98 aguardando recursos para pousar.
-INFO: Voo DOM 99 criado e iniciando procedimentos.
-POUSO: Voo DOM 99 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 99 esperando. 35 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 83 esperando. 35 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 80 esperando. 35 voo(s) INTL na frente.
-ALERTA: Voo DOM 75 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 75 esperando. 35 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 76 esperando. 35 voo(s) INTL na frente.
-ALERTA: Voo DOM 73 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 73 esperando. 35 voo(s) INTL na frente.
-ALERTA: Voo DOM 67 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 67 esperando. 35 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 99 esperando. 35 voo(s) INTL na frente.
-ALERTA: Voo DOM 60 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 60 esperando. 35 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 93 esperando. 35 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 35 voo(s) INTL na frente.
-INFO: Voo DOM 100 criado e iniciando procedimentos.
-POUSO: Voo DOM 100 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 100 esperando. 35 voo(s) INTL na frente.
-INFO: Voo INTL 101 criado e iniciando procedimentos.
-POUSO: Voo INTL 101 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 90 esperando. 36 voo(s) INTL na frente.
-ALERTA: Voo DOM 66 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 66 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 82 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 72 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 100 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 81 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 95 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 87 esperando. 36 voo(s) INTL na frente.
-ALERTA: Voo DOM 70 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 70 esperando. 36 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 97 esperando. 36 voo(s) INTL na frente.
-INFO: Voo INTL 102 criado e iniciando procedimentos.
-POUSO: Voo INTL 102 aguardando recursos para pousar.
-INFO: Voo DOM 103 criado e iniciando procedimentos.
-POUSO: Voo DOM 103 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 103 esperando. 37 voo(s) INTL na frente.
-INFO: Voo DOM 104 criado e iniciando procedimentos.
-POUSO: Voo DOM 104 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 104 esperando. 37 voo(s) INTL na frente.
-ALERTA: Voo DOM 67 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 67 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 83 esperando. 37 voo(s) INTL na frente.
-ALERTA: Voo DOM 75 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 75 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 76 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 104 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 93 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 80 esperando. 37 voo(s) INTL na frente.
-ALERTA: Voo DOM 73 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 73 esperando. 37 voo(s) INTL na frente.
-ALERTA: Voo DOM 60 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 60 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 99 esperando. 37 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 103 esperando. 37 voo(s) INTL na frente.
-INFO: Voo INTL 105 criado e iniciando procedimentos.
-POUSO: Voo INTL 105 aguardando recursos para pousar.
-INFO: Voo INTL 106 criado e iniciando procedimentos.
-POUSO: Voo INTL 106 aguardando recursos para pousar.
-INFO: Voo DOM 107 criado e iniciando procedimentos.
-POUSO: Voo DOM 107 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 107 esperando. 39 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 90 esperando. 39 voo(s) INTL na frente.
-ALERTA: Voo DOM 66 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 66 esperando. 39 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 87 esperando. 39 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 97 esperando. 39 voo(s) INTL na frente.
-ALERTA: Voo DOM 82 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 82 esperando. 39 voo(s) INTL na frente.
-ALERTA: Voo DOM 70 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 70 esperando. 39 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 95 esperando. 39 voo(s) INTL na frente.
-ALERTA: Voo DOM 72 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 72 esperando. 39 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 107 esperando. 39 voo(s) INTL na frente.
-ALERTA: Voo DOM 81 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 81 esperando. 39 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 100 esperando. 39 voo(s) INTL na frente.
-INFO: Voo DOM 108 criado e iniciando procedimentos.
-POUSO: Voo DOM 108 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 108 esperando. 39 voo(s) INTL na frente.
-INFO: Voo INTL 109 criado e iniciando procedimentos.
-POUSO: Voo INTL 109 aguardando recursos para pousar.
-STARVATION: Voo DOM 67 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 80 esperando. 40 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 40 voo(s) INTL na frente.
-ALERTA: Voo DOM 75 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 75 esperando. 40 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 108 esperando. 40 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 104 esperando. 40 voo(s) INTL na frente.
-ALERTA: Voo DOM 73 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 73 esperando. 40 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 103 esperando. 40 voo(s) INTL na frente.
-ALERTA: Voo DOM 76 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 76 esperando. 40 voo(s) INTL na frente.
-ALERTA: Voo DOM 83 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 83 esperando. 40 voo(s) INTL na frente.
-STARVATION: Voo DOM 60 caiu por excesso de tempo de espera! (100s)
-PRIORIDADE: Voo DOM 93 esperando. 40 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 99 esperando. 40 voo(s) INTL na frente.
-INFO: Voo DOM 110 criado e iniciando procedimentos.
-POUSO: Voo DOM 110 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 110 esperando. 40 voo(s) INTL na frente.
-INFO: Voo INTL 111 criado e iniciando procedimentos.
-POUSO: Voo INTL 111 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 90 esperando. 41 voo(s) INTL na frente.
-ALERTA: Voo DOM 66 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 66 esperando. 41 voo(s) INTL na frente.
-ALERTA: Voo DOM 87 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 87 esperando. 41 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 97 esperando. 41 voo(s) INTL na frente.
-ALERTA: Voo DOM 82 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 82 esperando. 41 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 100 esperando. 41 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 107 esperando. 41 voo(s) INTL na frente.
-ALERTA: Voo DOM 81 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 81 esperando. 41 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 95 esperando. 41 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 110 esperando. 41 voo(s) INTL na frente.
-STARVATION: Voo DOM 70 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 72 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 72 esperando. 41 voo(s) INTL na frente.
-INFO: Voo DOM 112 criado e iniciando procedimentos.
-POUSO: Voo DOM 112 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 112 esperando. 41 voo(s) INTL na frente.
-INFO: Voo INTL 113 criado e iniciando procedimentos.
-POUSO: Voo INTL 113 aguardando recursos para pousar.
-ALERTA: Voo DOM 83 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 83 esperando. 42 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 84 esperando. 42 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 103 esperando. 42 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 108 esperando. 42 voo(s) INTL na frente.
-ALERTA: Voo DOM 80 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 80 esperando. 42 voo(s) INTL na frente.
-ALERTA: Voo DOM 76 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 76 esperando. 42 voo(s) INTL na frente.
-STARVATION: Voo DOM 73 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 93 esperando. 42 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 112 esperando. 42 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 99 esperando. 42 voo(s) INTL na frente.
-STARVATION: Voo DOM 75 caiu por excesso de tempo de espera! (93s)
-PRIORIDADE: Voo DOM 104 esperando. 42 voo(s) INTL na frente.
-INFO: Voo INTL 114 criado e iniciando procedimentos.
-POUSO: Voo INTL 114 aguardando recursos para pousar.
-INFO: Voo DOM 115 criado e iniciando procedimentos.
-POUSO: Voo DOM 115 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 115 esperando. 43 voo(s) INTL na frente.
-INFO: Voo INTL 116 criado e iniciando procedimentos.
-POUSO: Voo INTL 116 aguardando recursos para pousar.
-ALERTA: Voo DOM 90 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 90 esperando. 44 voo(s) INTL na frente.
-ALERTA: Voo DOM 87 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 87 esperando. 44 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 97 esperando. 44 voo(s) INTL na frente.
-STARVATION: Voo DOM 66 caiu por excesso de tempo de espera! (100s)
-PRIORIDADE: Voo DOM 110 esperando. 44 voo(s) INTL na frente.
-ALERTA: Voo DOM 81 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 81 esperando. 44 voo(s) INTL na frente.
-ALERTA: Voo DOM 82 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 82 esperando. 44 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 100 esperando. 44 voo(s) INTL na frente.
-ALERTA: Voo DOM 72 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 72 esperando. 44 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 107 esperando. 44 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 95 esperando. 44 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 115 esperando. 44 voo(s) INTL na frente.
-INFO: Voo INTL 117 criado e iniciando procedimentos.
-POUSO: Voo INTL 117 aguardando recursos para pousar.
-INFO: Voo DOM 118 criado e iniciando procedimentos.
-POUSO: Voo DOM 118 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 118 esperando. 45 voo(s) INTL na frente.
-INFO: Voo DOM 119 criado e iniciando procedimentos.
-POUSO: Voo DOM 119 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 119 esperando. 45 voo(s) INTL na frente.
-INFO: Voo INTL 120 criado e iniciando procedimentos.
-POUSO: Voo INTL 120 aguardando recursos para pousar.
-ALERTA: Voo DOM 83 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 83 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 103 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 84 em estado critico de espera! (70s)
-PRIORIDADE: Voo DOM 84 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 108 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 76 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 76 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 93 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 93 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 104 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 80 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 80 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 119 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 118 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 112 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 99 esperando. 46 voo(s) INTL na frente.
-INFO: Voo DOM 121 criado e iniciando procedimentos.
-POUSO: Voo DOM 121 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 121 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 90 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 90 esperando. 46 voo(s) INTL na frente.
-STARVATION: Voo DOM 82 caiu por excesso de tempo de espera! (93s)
-ALERTA: Voo DOM 87 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 87 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 97 em estado critico de espera! (62s)
-PRIORIDADE: Voo DOM 97 esperando. 46 voo(s) INTL na frente.
-STARVATION: Voo DOM 81 caiu por excesso de tempo de espera! (96s)
-PRIORIDADE: Voo DOM 107 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 110 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 121 esperando. 46 voo(s) INTL na frente.
-ALERTA: Voo DOM 95 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 95 esperando. 46 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 100 esperando. 46 voo(s) INTL na frente.
-STARVATION: Voo DOM 72 caiu por excesso de tempo de espera! (100s)
-PRIORIDADE: Voo DOM 115 esperando. 46 voo(s) INTL na frente.
-INFO: Voo DOM 122 criado e iniciando procedimentos.
-POUSO: Voo DOM 122 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 122 esperando. 46 voo(s) INTL na frente.
-INFO: Voo INTL 123 criado e iniciando procedimentos.
-POUSO: Voo INTL 123 aguardando recursos para pousar.
-STARVATION: Voo DOM 83 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 103 esperando. 47 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 108 esperando. 47 voo(s) INTL na frente.
-ALERTA: Voo DOM 84 em estado critico de espera! (80s)
-PRIORIDADE: Voo DOM 84 esperando. 47 voo(s) INTL na frente.
-ALERTA: Voo DOM 80 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 80 esperando. 47 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 118 esperando. 47 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 122 esperando. 47 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 112 esperando. 47 voo(s) INTL na frente.
-STARVATION: Voo DOM 76 caiu por excesso de tempo de espera! (100s)
-ALERTA: Voo DOM 99 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 99 esperando. 47 voo(s) INTL na frente.
-ALERTA: Voo DOM 93 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 93 esperando. 47 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 119 esperando. 47 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 104 esperando. 47 voo(s) INTL na frente.
-INFO: Voo DOM 124 criado e iniciando procedimentos.
-POUSO: Voo DOM 124 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 124 esperando. 47 voo(s) INTL na frente.
-INFO: Voo DOM 125 criado e iniciando procedimentos.
-POUSO: Voo DOM 125 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 125 esperando. 47 voo(s) INTL na frente.
-INFO: Voo INTL 126 criado e iniciando procedimentos.
-POUSO: Voo INTL 126 aguardando recursos para pousar.
-ALERTA: Voo DOM 90 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 90 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 97 em estado critico de espera! (72s)
-PRIORIDADE: Voo DOM 97 esperando. 48 voo(s) INTL na frente.
-STARVATION: Voo DOM 87 caiu por excesso de tempo de espera! (93s)
-PRIORIDADE: Voo DOM 110 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 95 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 95 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 125 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 121 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 107 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 124 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 100 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 100 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 115 esperando. 48 voo(s) INTL na frente.
-INFO: Voo DOM 127 criado e iniciando procedimentos.
-POUSO: Voo DOM 127 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 127 esperando. 48 voo(s) INTL na frente.
-INFO: Voo DOM 128 criado e iniciando procedimentos.
-POUSO: Voo DOM 128 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 128 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 104 em estado critico de espera! (62s)
-PRIORIDADE: Voo DOM 104 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 108 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 84 em estado critico de espera! (90s)
-PRIORIDADE: Voo DOM 84 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 122 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 128 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 103 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 103 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 93 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 93 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 127 esperando. 48 voo(s) INTL na frente.
-STARVATION: Voo DOM 80 caiu por excesso de tempo de espera! (100s)
-PRIORIDADE: Voo DOM 119 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 118 esperando. 48 voo(s) INTL na frente.
-ALERTA: Voo DOM 99 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 99 esperando. 48 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 112 esperando. 48 voo(s) INTL na frente.
-INFO: Voo DOM 129 criado e iniciando procedimentos.
-POUSO: Voo DOM 129 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 129 esperando. 48 voo(s) INTL na frente.
-INFO: Voo DOM 130 criado e iniciando procedimentos.
-POUSO: Voo DOM 130 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 130 esperando. 48 voo(s) INTL na frente.
-INFO: Voo INTL 131 criado e iniciando procedimentos.
-POUSO: Voo INTL 131 aguardando recursos para pousar.
-INFO: Voo INTL 132 criado e iniciando procedimentos.
-POUSO: Voo INTL 132 aguardando recursos para pousar.
-STARVATION: Voo DOM 90 caiu por excesso de tempo de espera! (96s)
-PRIORIDADE: Voo DOM 125 esperando. 50 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 115 esperando. 50 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 129 esperando. 50 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 110 esperando. 50 voo(s) INTL na frente.
-ALERTA: Voo DOM 107 em estado critico de espera! (62s)
-PRIORIDADE: Voo DOM 107 esperando. 50 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 121 esperando. 50 voo(s) INTL na frente.
-ALERTA: Voo DOM 100 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 100 esperando. 50 voo(s) INTL na frente.
-ALERTA: Voo DOM 97 em estado critico de espera! (82s)
-PRIORIDADE: Voo DOM 97 esperando. 50 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 130 esperando. 50 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 124 esperando. 50 voo(s) INTL na frente.
-ALERTA: Voo DOM 95 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 95 esperando. 50 voo(s) INTL na frente.
-INFO: Voo DOM 133 criado e iniciando procedimentos.
-POUSO: Voo DOM 133 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 133 esperando. 50 voo(s) INTL na frente.
-INFO: Voo INTL 134 criado e iniciando procedimentos.
-POUSO: Voo INTL 134 aguardando recursos para pousar.
-ALERTA: Voo DOM 104 em estado critico de espera! (72s)
-PRIORIDADE: Voo DOM 104 esperando. 51 voo(s) INTL na frente.
-ALERTA: Voo DOM 103 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 103 esperando. 51 voo(s) INTL na frente.
-STARVATION: Voo DOM 84 caiu por excesso de tempo de espera! (100s)
-ALERTA: Voo DOM 108 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 108 esperando. 51 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 128 esperando. 51 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 127 esperando. 51 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 133 esperando. 51 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 119 esperando. 51 voo(s) INTL na frente.
-STARVATION: Voo DOM 93 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 122 esperando. 51 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 118 esperando. 51 voo(s) INTL na frente.
-ALERTA: Voo DOM 99 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 99 esperando. 51 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 112 esperando. 51 voo(s) INTL na frente.
-INFO: Voo DOM 135 criado e iniciando procedimentos.
-POUSO: Voo DOM 135 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 135 esperando. 51 voo(s) INTL na frente.
-INFO: Voo DOM 136 criado e iniciando procedimentos.
-POUSO: Voo DOM 136 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 136 esperando. 51 voo(s) INTL na frente.
-INFO: Voo INTL 137 criado e iniciando procedimentos.
-POUSO: Voo INTL 137 aguardando recursos para pousar.
-STARVATION: Voo DOM 95 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 115 esperando. 52 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 130 esperando. 52 voo(s) INTL na frente.
-ALERTA: Voo DOM 100 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 100 esperando. 52 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 125 esperando. 52 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 135 esperando. 52 voo(s) INTL na frente.
-STARVATION: Voo DOM 97 caiu por excesso de tempo de espera! (92s)
-PRIORIDADE: Voo DOM 129 esperando. 52 voo(s) INTL na frente.
-ALERTA: Voo DOM 110 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 110 esperando. 52 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 136 esperando. 52 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 121 esperando. 52 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 124 esperando. 52 voo(s) INTL na frente.
-ALERTA: Voo DOM 107 em estado critico de espera! (72s)
-PRIORIDADE: Voo DOM 107 esperando. 52 voo(s) INTL na frente.
-INFO: Voo INTL 138 criado e iniciando procedimentos.
-POUSO: Voo INTL 138 aguardando recursos para pousar.
-INFO: Voo INTL 139 criado e iniciando procedimentos.
-POUSO: Voo INTL 139 aguardando recursos para pousar.
-STARVATION: Voo DOM 99 caiu por excesso de tempo de espera! (93s)
-ALERTA: Voo DOM 104 em estado critico de espera! (82s)
-PRIORIDADE: Voo DOM 104 esperando. 54 voo(s) INTL na frente.
-ALERTA: Voo DOM 103 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 103 esperando. 54 voo(s) INTL na frente.
-ALERTA: Voo DOM 112 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 112 esperando. 54 voo(s) INTL na frente.
-ALERTA: Voo DOM 108 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 108 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 127 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 122 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 119 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 118 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 128 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 133 esperando. 54 voo(s) INTL na frente.
-INFO: Voo DOM 140 criado e iniciando procedimentos.
-POUSO: Voo DOM 140 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 140 esperando. 54 voo(s) INTL na frente.
-INFO: Voo DOM 141 criado e iniciando procedimentos.
-POUSO: Voo DOM 141 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 141 esperando. 54 voo(s) INTL na frente.
-STARVATION: Voo DOM 100 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 125 esperando. 54 voo(s) INTL na frente.
-ALERTA: Voo DOM 115 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 115 esperando. 54 voo(s) INTL na frente.
-ALERTA: Voo DOM 107 em estado critico de espera! (82s)
-PRIORIDADE: Voo DOM 107 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 124 esperando. 54 voo(s) INTL na frente.
-ALERTA: Voo DOM 110 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 110 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 121 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 129 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 136 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 140 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 141 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 130 esperando. 54 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 135 esperando. 54 voo(s) INTL na frente.
-INFO: Voo DOM 142 criado e iniciando procedimentos.
-POUSO: Voo DOM 142 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 142 esperando. 54 voo(s) INTL na frente.
-INFO: Voo INTL 143 criado e iniciando procedimentos.
-POUSO: Voo INTL 143 aguardando recursos para pousar.
-STARVATION: Voo DOM 103 caiu por excesso de tempo de espera! (94s)
-PRIORIDADE: Voo DOM 142 esperando. 55 voo(s) INTL na frente.
-STARVATION: Voo DOM 104 caiu por excesso de tempo de espera! (92s)
-ALERTA: Voo DOM 119 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 119 esperando. 55 voo(s) INTL na frente.
-ALERTA: Voo DOM 118 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 118 esperando. 55 voo(s) INTL na frente.
-ALERTA: Voo DOM 112 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 112 esperando. 55 voo(s) INTL na frente.
-ALERTA: Voo DOM 108 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 108 esperando. 55 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 127 esperando. 55 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 122 esperando. 55 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 133 esperando. 55 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 128 esperando. 55 voo(s) INTL na frente.
-INFO: Voo DOM 144 criado e iniciando procedimentos.
-POUSO: Voo DOM 144 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 144 esperando. 55 voo(s) INTL na frente.
-INFO: Voo INTL 145 criado e iniciando procedimentos.
-POUSO: Voo INTL 145 aguardando recursos para pousar.
-INFO: Voo INTL 146 criado e iniciando procedimentos.
-POUSO: Voo INTL 146 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 125 esperando. 57 voo(s) INTL na frente.
-STARVATION: Voo DOM 107 caiu por excesso de tempo de espera! (92s)
-PRIORIDADE: Voo DOM 140 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 136 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 110 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 110 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 141 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 115 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 115 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 144 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 124 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 135 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 121 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 121 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 129 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 130 esperando. 57 voo(s) INTL na frente.
-INFO: Voo DOM 147 criado e iniciando procedimentos.
-POUSO: Voo DOM 147 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 147 esperando. 57 voo(s) INTL na frente.
-INFO: Voo DOM 148 criado e iniciando procedimentos.
-POUSO: Voo DOM 148 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 148 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 133 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 112 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 112 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 122 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 122 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 142 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 127 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 147 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 119 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 119 esperando. 57 voo(s) INTL na frente.
-STARVATION: Voo DOM 108 caiu por excesso de tempo de espera! (96s)
-PRIORIDADE: Voo DOM 148 esperando. 57 voo(s) INTL na frente.
-ALERTA: Voo DOM 118 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 118 esperando. 57 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 128 esperando. 57 voo(s) INTL na frente.
-INFO: Voo DOM 149 criado e iniciando procedimentos.
-POUSO: Voo DOM 149 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 149 esperando. 57 voo(s) INTL na frente.
-INFO: Voo INTL 150 criado e iniciando procedimentos.
-POUSO: Voo INTL 150 aguardando recursos para pousar.
-PRIORIDADE: Voo DOM 129 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 135 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 115 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 115 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 130 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 125 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 125 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 124 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 124 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 140 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 136 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 141 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 110 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 121 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 121 esperando. 58 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 79 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 63 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 53 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 80 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 26 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 70 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 73 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 65 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+INFO: Voo DOM 92 criado e iniciando procedimentos.
+POUSO: Voo DOM 92 aguardando recursos para pousar.
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
 INFO: Tempo de simulacao encerrado. Finalizando a criacao de novos voos...
 CONTROLE: Loop de criacao de avioes finalizado.
 INFO: Thread de controle finalizada. Os voos existentes continuarao ate o fim de suas operacoes.
-PRIORIDADE: Voo DOM 133 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 112 caiu por excesso de tempo de espera! (95s)
-ALERTA: Voo DOM 127 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 127 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 142 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 119 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 119 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 128 em estado critico de espera! (62s)
-PRIORIDADE: Voo DOM 128 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 122 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 122 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 118 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 118 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 121 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 121 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 135 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 129 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 129 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 115 caiu por excesso de tempo de espera! (94s)
-ALERTA: Voo DOM 125 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 125 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 130 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 130 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 136 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 140 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 124 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 124 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 141 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 118 caiu por excesso de tempo de espera! (94s)
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 142 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 122 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 122 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 133 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 133 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 119 caiu por excesso de tempo de espera! (93s)
-ALERTA: Voo DOM 127 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 127 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 128 em estado critico de espera! (72s)
-PRIORIDADE: Voo DOM 128 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 125 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 125 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 129 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 129 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 130 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 130 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 136 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 136 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 124 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 124 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 135 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 135 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 121 caiu por excesso de tempo de espera! (94s)
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 140 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 141 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 127 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 127 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 122 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 133 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 133 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 128 em estado critico de espera! (82s)
-PRIORIDADE: Voo DOM 128 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 142 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 129 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 129 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 130 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 130 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 125 caiu por excesso de tempo de espera! (94s)
-ALERTA: Voo DOM 135 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 135 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 136 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 136 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 140 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 140 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 124 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 141 em estado critico de espera! (63s)
-PRIORIDADE: Voo DOM 141 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 127 caiu por excesso de tempo de espera! (95s)
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 142 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 142 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 133 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 133 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 128 caiu por excesso de tempo de espera! (92s)
-STARVATION: Voo DOM 129 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 144 em estado critico de espera! (66s)
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 130 caiu por excesso de tempo de espera! (95s)
-ALERTA: Voo DOM 135 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 135 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 140 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 140 esperando. 58 voo(s) INTL na frente.
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 141 em estado critico de espera! (73s)
-PRIORIDADE: Voo DOM 141 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 136 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 136 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 147 em estado critico de espera! (65s)
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 142 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 142 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 148 em estado critico de espera! (62s)
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 133 caiu por excesso de tempo de espera! (95s)
-ALERTA: Voo DOM 144 em estado critico de espera! (76s)
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 135 caiu por excesso de tempo de espera! (96s)
-STARVATION: Voo DOM 136 caiu por excesso de tempo de espera! (95s)
-ALERTA: Voo DOM 149 em estado critico de espera! (64s)
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 140 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 140 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 141 em estado critico de espera! (83s)
-PRIORIDADE: Voo DOM 141 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 147 em estado critico de espera! (75s)
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 142 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 142 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 148 em estado critico de espera! (72s)
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 144 em estado critico de espera! (86s)
-PRIORIDADE: Voo DOM 144 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 149 em estado critico de espera! (74s)
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 141 caiu por excesso de tempo de espera! (93s)
-STARVATION: Voo DOM 140 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 148 em estado critico de espera! (82s)
-PRIORIDADE: Voo DOM 148 esperando. 58 voo(s) INTL na frente.
-ALERTA: Voo DOM 147 em estado critico de espera! (85s)
-PRIORIDADE: Voo DOM 147 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 142 caiu por excesso de tempo de espera! (96s)
-STARVATION: Voo DOM 144 caiu por excesso de tempo de espera! (96s)
-ALERTA: Voo DOM 149 em estado critico de espera! (84s)
-PRIORIDADE: Voo DOM 149 esperando. 58 voo(s) INTL na frente.
-STARVATION: Voo DOM 147 caiu por excesso de tempo de espera! (95s)
-STARVATION: Voo DOM 148 caiu por excesso de tempo de espera! (92s)
-STARVATION: Voo DOM 149 caiu por excesso de tempo de espera! (94s)
+PRIORIDADE: Voo DOM 81 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 32 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 75 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 46 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 54 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 54 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 67 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 67 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 28 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 79 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 73 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 53 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 53 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 80 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 26 em estado critico de espera! (62s)
+PRIORIDADE: Voo DOM 26 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 63 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 63 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 34 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 65 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 65 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 33 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 70 em estado critico de espera! (62s)
+PRIORIDADE: Voo DOM 70 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 32 em estado critico de espera! (65s)
+PRIORIDADE: Voo DOM 32 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 54 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 54 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 81 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 28 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 28 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 46 em estado critico de espera! (65s)
+PRIORIDADE: Voo DOM 46 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 67 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 67 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 75 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 73 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 73 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 79 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 53 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 53 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 65 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 65 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 26 em estado critico de espera! (72s)
+PRIORIDADE: Voo DOM 26 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 63 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 63 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 80 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 33 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 33 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 70 em estado critico de espera! (72s)
+PRIORIDADE: Voo DOM 70 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 34 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 34 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 67 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 67 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 32 em estado critico de espera! (75s)
+PRIORIDADE: Voo DOM 32 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 81 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 54 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 54 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 28 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 28 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 46 em estado critico de espera! (75s)
+PRIORIDADE: Voo DOM 46 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 75 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 75 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 79 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 79 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 73 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 73 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 65 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 65 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 26 em estado critico de espera! (82s)
+PRIORIDADE: Voo DOM 26 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 53 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 53 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 63 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 63 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 80 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 80 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 33 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 33 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 70 em estado critico de espera! (82s)
+PRIORIDADE: Voo DOM 70 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 34 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 34 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 81 em estado critico de espera! (65s)
+PRIORIDADE: Voo DOM 81 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 32 em estado critico de espera! (85s)
+PRIORIDADE: Voo DOM 32 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 67 caiu por excesso de tempo de espera! (93s)
+STARVATION: Voo DOM 54 caiu por excesso de tempo de espera! (93s)
+ALERTA: Voo DOM 28 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 28 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 46 em estado critico de espera! (85s)
+PRIORIDADE: Voo DOM 46 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 75 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 75 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 73 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 73 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 63 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 79 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 79 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 53 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 85 em estado critico de espera! (63s)
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 26 caiu por excesso de tempo de espera! (92s)
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 65 caiu por excesso de tempo de espera! (94s)
+ALERTA: Voo DOM 34 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 34 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 33 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 33 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 80 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 80 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 83 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 70 caiu por excesso de tempo de espera! (92s)
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 32 caiu por excesso de tempo de espera! (95s)
+STARVATION: Voo DOM 46 caiu por excesso de tempo de espera! (95s)
+STARVATION: Voo DOM 28 caiu por excesso de tempo de espera! (93s)
+ALERTA: Voo DOM 81 em estado critico de espera! (75s)
+PRIORIDADE: Voo DOM 81 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 75 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 75 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 86 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 79 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 79 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 73 caiu por excesso de tempo de espera! (94s)
+ALERTA: Voo DOM 89 em estado critico de espera! (65s)
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 85 em estado critico de espera! (73s)
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 80 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 80 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 83 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 33 caiu por excesso de tempo de espera! (96s)
+STARVATION: Voo DOM 34 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 88 em estado critico de espera! (66s)
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 92 em estado critico de espera! (64s)
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 75 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 81 em estado critico de espera! (85s)
+PRIORIDADE: Voo DOM 81 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 86 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 89 em estado critico de espera! (75s)
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 85 em estado critico de espera! (83s)
+PRIORIDADE: Voo DOM 85 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 80 caiu por excesso de tempo de espera! (93s)
+ALERTA: Voo DOM 83 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 83 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 79 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 88 em estado critico de espera! (76s)
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 81 caiu por excesso de tempo de espera! (95s)
+ALERTA: Voo DOM 92 em estado critico de espera! (74s)
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+ALERTA: Voo DOM 86 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 86 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 83 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 88 em estado critico de espera! (86s)
+PRIORIDADE: Voo DOM 88 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 85 caiu por excesso de tempo de espera! (93s)
+ALERTA: Voo DOM 89 em estado critico de espera! (85s)
+PRIORIDADE: Voo DOM 89 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 86 caiu por excesso de tempo de espera! (96s)
+ALERTA: Voo DOM 92 em estado critico de espera! (84s)
+PRIORIDADE: Voo DOM 92 esperando. 15 voo(s) INTL na frente.
+STARVATION: Voo DOM 89 caiu por excesso de tempo de espera! (95s)
+STARVATION: Voo DOM 88 caiu por excesso de tempo de espera! (96s)
+STARVATION: Voo DOM 92 caiu por excesso de tempo de espera! (94s)
 INFO: Modulo do aeroporto finalizado.
 INFO: Simulacao finalizada.
 --- Fim do Log ---

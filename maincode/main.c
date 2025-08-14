@@ -7,6 +7,7 @@
 #include "logger.h"
 #include "airport.h"
 #include "plane.h"
+#include "stats.h"
 
 static volatile int simulation_is_running = 1;
 
@@ -42,6 +43,7 @@ void* simulation_controller_thread(void* arg) {
 }
 
 int main(void) {
+    stats_init();
     srand(time(NULL));
 
     if (logger_init("simulation.log") != 0) {
@@ -76,6 +78,7 @@ int main(void) {
     write_log("INFO: Simulacao finalizada.\n");
     logger_close();
     printf("Simulacao finalizada. Verifique o arquivo 'simulation.log' para detalhes.\n");
-
+    stats_print_final_report();
+    stats_destroy();
     return 0;
 }

@@ -5,6 +5,7 @@
 #include "airport.h"
 #include "logger.h"
 #include "config.h"
+#include "stats.h"
 
 void* plane_routine(void* arg) {
     PlaneData* data = (PlaneData*) arg;
@@ -40,7 +41,7 @@ void* plane_routine(void* arg) {
     airport_release_disembarking_resources(data);
     snprintf(log_buffer, sizeof(log_buffer), "DESEMBARQUE: Voo %s %d finalizou o desembarque e liberou o portao/torre.\n", type_str, data->id);
     write_log(log_buffer);
-
+    stats_increment_successful_flights();
 
     // --- DECOLAGEM ---
     snprintf(log_buffer, sizeof(log_buffer), "DECOLAGEM: Voo %s %d aguardando recursos para decolar.\n", type_str, data->id);
@@ -55,7 +56,6 @@ void* plane_routine(void* arg) {
 
     snprintf(log_buffer, sizeof(log_buffer), "INFO: Voo %s %d decolou com sucesso e finalizou o ciclo.\n", type_str, data->id);
     write_log(log_buffer);
-
     free(data);
     
     return NULL;

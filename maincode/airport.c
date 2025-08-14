@@ -5,6 +5,7 @@
 #include "airport.h"
 #include "logger.h"
 #include "config.h"
+#include "stats.h"
 
 static sem_t runways;
 static sem_t gates;
@@ -60,6 +61,7 @@ static void domestic_wait_with_priority(PlaneData* data) {
             if (elapsed_time > FALL_WAIT_TIME) {
                 snprintf(log_buffer, sizeof(log_buffer), "STARVATION: Voo DOM %d caiu por excesso de tempo de espera! (%lds)\n", data->id, elapsed_time);
                 write_log(log_buffer);
+                stats_increment_crashed_flights();
                 pthread_mutex_unlock(&priority_lock);
                 pthread_exit(NULL); 
             } else if (elapsed_time > ALERT_WAIT_TIME) {
